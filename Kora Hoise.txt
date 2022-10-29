@@ -1,0 +1,204 @@
+varilables
+name=
+ruls
+1. jkdljfkajdiofj
+2.djfjdkla4474
+3.jfhjkdah_djfkdsajf
+4._kdfkdsjklfjdk
+5. do not use to number
+6. do not use to spesh
+7. ()use
+comment# tage
+------------------------------
+speed_of_light=("299792458")
+print(speed_of_light)
+#metre per minute
+light=(speed_of_light*60)
+print(light)
+***************
+a=9
+a=a+1
+a=a*2
+print(a)
+You sent
+abc=("computer")
+print(abc[2])
+---------------------------
+abc=("computer")
+print(abc[3:3+1])
+--------------------------
+abc=("computer")
+print(len(abc))
+........................
+abc=("computer")
+print(abc[:-2])
+......................
+abc=("computer")
+print(abc[:50])
+........................
+abc=("computer")
+print(abc[0:5]+abc[5:9])
+..........
+abc=("computer")
+print(abc.find("p"))
+......................
+abc=("today your class will stop after few days ago strted my class")
+y=(abc.find("class"))
+print(abc[y:])
+...........................
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+y=(abc.find("guitar"))
+print(y)
+.....................
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+print(abc.find("guitar")+5)
+..................
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+xyz=(abc.find("play"))
+tuv=(abc.find("play",xyz+1))
+print(tuv)
+.............................
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+xyz=(abc.find("play"))
+tuv=(abc.find("play",xyz+1))
+print(tuv)
+print(abc[tuv:])
+............................
+#requesting input
+print("Hello")
+x=input("what is your name ")
+print("hello nice to meet you"+x)
+....................
+#requesting input
+print("Hello")
+x=input("what is your name ")
+print(x +"lenght of your name is " + str(len(x)))
+y=input("what is your age: ")
+print(("you will be ")+str(int(y)+1)+("in a years"))
+................................
+page=('..........<a href="www.facebook.com">facebook </a>.........')
+start_link=(page.find('<a href'))
+start_quote=(page.find('"',start_link))
+end_quote=(page.find('"',start_quote + 1))
+url=(page[start_quote + 1:end_quote])
+print(url)
+........................
+print("welcome,this is program for sum of two numbers")
+x=input("enter 1st number")
+y=input("enter 2nd number")
+print(("sum of two number is")+str(int(x)+int(y)))
+.................
+x=int(input())
+
+if x % 4==0:
+	print("leap year")
+elif x % 4!=0:
+	
+	print("not leap year")	
+................
+x=list(range(1,11))
+y=[]
+for i in x:
+    a=i**3
+    y.append(a)
+print(y)
+....................
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+x=int(x)
+y=input("enter 2nd numbers ")
+y=int(y)
+print(("sum of two number is ")+ str (x+y))
+...........................
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+y=input("enter 2nd numbers ")
+print(("sum of two number is ")+(str(int(x)+int(y))))
+............................
+#decision control
+print("welcom this is number guesing game")
+x=input("guess the number ") #if statement
+if(x==4):
+    print("your guess is right , great, you  win")
+
+else:
+    print("oops, your guess is wrong")
+.......................
+i=0
+while(i!=10):
+    i=i+1
+    print(i)
+......................
+def print_number(x):
+    i=1
+    while True:
+        if (i>x):
+            break
+        print (i)
+        i=i+1
+print(print_number(25))
+...........................
+while True:
+    x=str(input("what is your name : "))
+    if(x!="rahul"):
+        continue
+    y= str(input("hello rahul, what is your password "))
+    if(x=="rahul123"):
+        break
+print("access granted, Wellcome to rahul")
+
+..........................
+# Infinite loop , break , continue statement , password program
+def print_numbers(x):
+    i=1
+    while True:
+        if(i>x):
+            break
+        print(i)
+        i=i+1
+print(print_numbers(20))
+......................
+# Infinite loop , break , continue statement , password program
+while True:
+    x=str(input("what is your name :"))
+    if (x!="rahul"):
+        continue
+    y=str(input("hallo rahul, what is your password "))
+    if (y=="iti420bd"):
+        break
+print("access qranted,wallcome to rahul")
+...........................
+#Drawing a isosceles triangle
+import turtle
+t = turtle.Pen()
+t.forward(50)
+t.left(104.47751218592992)
+t.forward(100)
+t.left(151.04497562814015)
+t.forward(100)
+.............................
+#use . format 
+a = int(input("Enter your age"))
+b = a + 1
+print("now you are {} year old and after one year you {}".format(a, b))
+...................................
+#list
+fruits=["apple","mango","grapes"]
+fruits[0]="banana"
+fruits.append('apple')
+print(fruits[-1])
+print(fruits)
+print(fruits[0])
+print(fruits[0].title())
+.................................
+#remove method
+fruits=["apple","mango","grapes"]
+fruits.remove('mango')
+print(fruits)
+..............................
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player)
+...........................
