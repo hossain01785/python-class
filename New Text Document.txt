@@ -1,0 +1,2582 @@
+varilables
+name=
+ruls
+1. jkdljfkajdiofj
+2.djfjdkla4474
+3.jfhjkdah_djfkdsajf
+4._kdfkdsjklfjdk
+5. do not use to number
+6. do not use to spesh
+7. ()use
+comment# tage
+------------------------------
+speed_of_light=("299792458")
+print(speed_of_light)
+#metre per minute
+light=(speed_of_light*60)
+print(light)
+***************
+a=9
+a=a+1
+a=a*2
+print(a)
+You sent
+abc=("computer")
+print(abc[2])
+8/18/20, 7:54 AM
+You sent
+#starting position : ednding positin+1
+abc=("computer")
+print(abc[3:3+1])
+8/19/20, 6:59 AM
+You sent
+abc=("computer")
+print(len(abc))
+You sent
+abc=("computer")
+print(abc[:-2])
+You sent
+abc=("computer")
+print(abc[:50])
+You sent
+abc=("computer")
+print(abc[0:5]+abc[5:9])
+You sent
+abc=("computer")
+print(abc.find("p"))
+8/19/20, 7:27 AM
+You sent
+abc=("today your class will stop after few days ago strted my class")
+y=(abc.find("class"))
+print(abc[y:])
+You sent
+abc=("today your class will stop after few days ago strted my class")
+y=(abc.find("class"))
+print(abc[:y])
+8/20/20, 6:30 AM
+You sent
+You unsent a message
+You sent
+*************************
+You sent
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+y=(abc.find("guitar"))
+print(y)
+You sent
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+print(abc.find("guitar")+5)
+8/20/20, 6:51 AM
+You sent
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+xyz=(abc.find("play"))
+tuv=(abc.find("play",xyz+1))
+print(tuv)
+You sent
+abc=("I like to play guiter and i am huge fan of sungha jung and he play very good guiter")
+xyz=(abc.find("play"))
+tuv=(abc.find("play",xyz+1))
+print(tuv)
+print(abc[tuv:])
+8/20/20, 7:18 PM
+Tahmid
+Tahmid Salam Swochso
+Sir apni ict  division dhaka ta na so oi khana ki kaj koran........??? I mean department... Or  like that
+You sent
+হা
+You sent
+আমি আইসিটি ডিভিশনের দিনাজপুর জেলার প্রশিক্ষণ ও টেকনিক্যাল বিভাগের প্রধান
+8/20/20, 9:21 PM
+Tahmid
+>> print("\fhjfgjfgjjj")
+
+hjfgjfgjjj......................
+Tahmid
+sir enter korla code a \ ar jaygay blank box pachi...?????
+Tahmid
+Tahmid Salam Swochso
+kintu coppy kora dila ascha na
+You sent
+হা আসবে না এই কোড টা আলাদা ভাবে করতে হয়
+Tahmid
+>> print("\dfnfdijn")
+
+\dfnfdijn
+Tahmid
+Tahmid Salam Swochso
+but ai ta ta prob hoy na
+You sent
+পরসুদিন এটা বুঝায় দিব
+You sent
+কাল আসবা কি তুমি
+Tahmid
+Tahmid Salam Swochso
+Tahmid unsent a message
+Tahmid
+Tahmid Salam Swochso
+next dinai  asi sir amar somosa hoba na but apnar distub hoiba
+You sent
+অকে
+8/22/20, 6:46 AM
+You sent
+#requesting input
+print("Hello")
+x=input("what is your name ")
+print("hello nice to meet you"+x)
+You sent
+#requesting input
+print("Hello")
+x=input("what is your name ")
+print(x +"lenght of your name is " + str(len(x)))
+y=input("what is your age: ")
+print(("you will be ")+str(int(y)+1)+("in a years"))
+8/22/20, 12:11 PM
+You sent
+https://refer.sharetoearn.co/ashleybescowcv
+
+sharetoearn
+8/23/20, 8:07 AM
+You sent
+page=('..........<a href="www.facebook.com">facebook </a>.........')
+start_link=(page.find('<a href'))
+start_quote=(page.find('"',start_link))
+end_quote=(page.find('"',start_quote + 1))
+url=(page[start_quote + 1:end_quote])
+print(url)
+
+Facebook - Log In or Sign Up
+8/23/20, 5:55 PM
+Tahmid
+Tahmid Salam Swochso
+8/23/20, 10:32 PM
+You sent
+Babu
+8/24/20, 6:59 AM
+You sent
+একটি প্রোগ্রাম লিখ যেটি একটি সংখ্যা ইনপুট নিবে এবং 1 থেকে শুরু করে ঐ সংখ্যা পর্যন্ত যতগুলো সংখ্যা আছে তাদের বর্গের যোগফল প্রিন্ট কর।
+
+
+প্রাইম  নাম্বার বা মৌলিক সংখ্যা হচ্ছে 1 থেকে বড় সেইসব সংখ্যা যেগুলোকে 1 এবং ঐ সংখ্যাটি ছাড়া অন্য কোন সংখ্যা দ্বারা ভাগ করা যায় না। যেমনঃ 11, 13, 17 ইত্যাদি। এমন একটি প্রোগ্রাম লিখতে হবে যেটি একটি নির্দিষ্ট সীমা পর্যন্ত কতগুলো প্রাইম নাম্বার বা মৌলিক সংখ্যা আছে সেটি প্রিন্ট করবে।
+
+
+Leap Year বা অধিবর্ষ আমরা সবাই বুঝি। একটি সাল ইনপুট হিসেবে নাও এবং যাচাই কর উক্ত সালটি Leap Year কিনা। যদি হয় তবে প্রিন্ট কর 1, আর না হলে প্রিন্ট কর 2।
+8/24/20, 9:46 AM
+Tahmid
+Tahmid Salam Swochso
+Sir agula to loop ar kaj....tai na
+You sent
+Ha
+8/24/20, 7:50 PM
+You sent
+print("welcome,this is program for sum of two numbers")
+x=input("enter 1st number")
+y=input("enter 2nd number")
+print(("sum of two number is")+str(int(x)+int(y)))
+8/24/20, 9:34 PM
+Tahmid
+Tahmid Salam Swochso
+a=0
+c=int(input("first num: "))
+d=int(input("enter last num: "))
+
+for i in range(c,d+1):
+    print(i)
+    a=a+i**2
+print("sum"+str(a))
+You sent
+Code paila koi
+Tahmid
+Sir leap year ta dhaken
+Tahmid
+Tahmid Salam Swochso
+x=int(input())
+
+if x % 4==0:
+	print("leap year")
+elif x % 4!=0:
+	
+	print("not leap year")	
+print("\vsir math ar abcha dharonai korachi")
+You sent
+Ok
+Tahmid replied to you
+Tahmid Salam Swochso
+Sir 1st program a problem sir......... Sir
+You sent
+Ha
+You sent
+Ovaby hoby na
+Tahmid
+Kintu sir ar to results ascha....
+Tahmid
+Tahmid Salam Swochso
+Ar*= amar
+You sent
+Kal code problem kothay boly dibo
+Tahmid
+Tahmid Salam Swochso
+Sir elif ar jaygy else dila kano hochaa na
+You sent
+Dui ta duirokom many asy
+Tahmid
+Tahmid Salam Swochso
+You sent
+x=list(range(1,11))
+y=[]
+for i in x:
+    a=i**3
+    y.append(a)
+print(y)
+Tahmid
+Tahmid Salam Swochso
+8/25/20, 10:14 PM
+You sent
+8/26/20, 6:42 AM
+You sent
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+x=int(x)
+y=input("enter 2nd numbers ")
+y=int(y)
+print(("sum of two number is ")+ str (x+y))
+You sent
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+y=input("enter 2nd numbers ")
+print(("sum of two number is ")+ str (x+y))
+You sent
+#sum of two numbers
+print("welcome, this is program for sum of two numbeers ")
+x=input("enter 1st number ")
+y=input("enter 2nd numbers ")
+print(("sum of two number is ")+(str(int(x)+int(y))))
+You sent
+procedure
+def sum (a,b):
+    return (a+b)
+print (sum(3,23))
+8/26/20, 1:06 PM
+Tahmid
+Tahmid Salam Swochso
+8/27/20, 6:14 AM
+You sent
+def strings(a,b):
+    return a+b
+print(strings("Rahul ","islam"))
+8/27/20, 6:35 AM
+You sent
+search=("I like to play target and i am learning target")
+def position2(search,target):
+    frist= (search.find(target))
+    return (search.find(target,+1))
+x=(" I like to play guiter and i am learning guiter")
+print(position2(x,"guiter"))
+8/28/20, 8:10 AM
+You sent
+ছুটি
+You sent
+আজ
+8/30/20, 8:22 AM
+You sent
+#decision control
+print("welcom this is number guesing game")
+x=input("guess the number ") #if statement
+if(x==4):
+    print("your guess is right , great, you  win")
+
+else:
+    print("oops, your guess is wrong")
+You sent
+#decusuib control ==(equal to ), =(assignment)
+print("welcome, this is number guessing game and no is in 1/10")
+x=input("guess the number ") #if statement
+x=int(x)
+if (x==4):
+    print("your guess is right, great, you win")
+
+if (x!=4):
+    print("opps, your guess is wrong")
+8/30/20, 12:40 PM
+Tahmid
+Tahmid Salam Swochso
+Sir ajka asbo na sir...
+You sent
+Tahmid
+Tahmid Salam Swochso
+You sent
+Tahmid
+Tahmid
+Tahmid Salam Swochso
+Sir net problem tai call hocha na
+8/30/20, 1:05 PM
+You sent
+8/31/20, 6:50 AM
+Tahmid
+Tahmid Salam Swochso
+.
+You sent
+on control
+print("welcom this is number guesing game")
+x=input("guess the number ") #if statement
+x=int(x)
+if(x==4):
+    print("your guess is right , great, you  win")
+else:
+    if(x<4):
+        print("too low")
+    else:
+        print("to high")
+    print("you loose")
+You sent
+You unsent a message
+You sent
+i=0
+while(i!=10):
+    i=i+1
+    print(i)
+JUL 26, 2020, 7:13 AM
+
+
+
+def print_number(x):
+    i=1
+    while(i<=x):
+        print (i)
+        i=i+1
+print(print_number(25))
+
+
+
+def print_number(x):
+    i=1
+    while True:
+        print (i)
+        i=i+1
+print(print_number(25))
+
+
+
+def print_number(x):
+    i=1
+    while True:
+        if (i>x):
+            break
+        print (i)
+        i=i+1
+print(print_number(25))
+Tahmid
+Tahmid Salam Swochso
+9/1/20, 9:03 AM
+You sent
+#PASSWORD
+while True:
+    x=str(input("what is your name : "))
+    if(x!="rahul"):
+        continue
+    y= str(input("hello rahul, what is your password "))
+    if(x=="rahul123"):
+        break
+print("access granted, Wellcome to rahul")
+You sent
+def quabe(a):
+    return a*a*a
+x=input("enter a new number")
+y=(quabe(int(x)))
+print("quabe of number is " +str(y))
+You sent
+print("welcome,this is program for sum of two numbers")
+x=input("enter 1st number")
+y=input("enter 2nd number")
+print(("sum of two number is")+str(int(x)+int(y)))
+9/1/20, 12:14 PM
+Tahmid
+Tahmid Salam Swochso
+9/1/20, 1:01 PM
+You sent
+Tahmid
+Tahmid
+Tahmid Salam Swochso
+You sent
+9/2/20, 7:09 AM
+You sent
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+9/2/20, 7:35 AM
+You sent
+#loop
+#while
+#do while
+#for loop
+
+def ap(a,b,c):
+    while(a<=1):
+            print(a)
+            a=a+b
+a=int(input("enter 1st term of an Ap"))
+b=int(input("enter defference b/w two terms of an Ap : "))
+n=int(input("ebter no of terms of an Ap"))
+c=(a+(n*b)-b)
+print(c)
+print(ap(a,b,c))
+9/2/20, 1:24 PM
+Tahmid
+Tahmid Salam Swochso
+9/3/20, 7:53 AM
+You sent
+# Infinite loop , break , continue statement , password program
+def print_numbers(x):
+    i=1
+    while(i<=x):
+        print(i)
+        i=i+1
+print(print_numbers(20))
+You sent
+# Infinite loop , break , continue statement , password program
+def print_numbers(x):
+    i=1
+    while True:
+        if(i>x):
+            break
+        print(i)
+        i=i+1
+print(print_numbers(20))
+You sent
+# Infinite loop , break , continue statement , password program
+while True:
+    x=str(input("what is your name :"))
+    if (x!="rahul"):
+        continue
+    y=str(input("hallo rahul, what is your password "))
+    if (y=="iti420bd"):
+        break
+print("access qranted,wallcome to rahul")
+9/3/20, 12:30 PM
+You sent
+9/3/20, 1:38 PM
+Tahmid
+Tahmid Salam Swochso
+9/3/20, 11:44 PM
+Tahmid
+Sir kalka sokale jaita parbo na choching aca.....
+Tahmid
+Tahmid Salam Swochso
+Sorry sir aktu late a bollam
+9/6/20, 12:17 PM
+Tahmid
+Tahmid Salam Swochso
+You sent
+g sir
+You sent
+9/6/20, 8:48 PM
+Tahmid
+Tahmid
+Tahmid Salam Swochso
+a=int(input("1 num: "))
+b=int(input("2 num: "))
+if a>b:
+	l=a
+else:
+	l=b
+while(1):
+	if l%a==0 and l%b==0:
+	   print("LCM",l)
+	   break
+    l=l+1
+9/7/20, 8:22 AM
+Tahmid
+result=1
+def fac(x):
+    a=0
+    while x!=1:
+    	x=x-1
+    	result=result*x
+    return result
+x=int(input("factorial"))    
+g=fac(x)  	
+print(result)
+Tahmid
+Sir code a ki bhul aca
+Tahmid
+Tahmid Salam Swochso
+Tahmid
+Tahmid Salam Swochso
+You sent
+aami onle class nichi
+Tahmid
+Tahmid Salam Swochso
+9/7/20, 8:52 AM
+You sent
+9/7/20, 9:30 AM
+Tahmid
+Tahmid Salam Swochso
+You sent
+x= int(input())
+a=int(0)
+i=int(1)
+while i<=x:
+    a=a+(i*i)
+    i+=1
+print(a)
+
+import math
+
+def GCD(x,y):
+	if x>y:
+		small=x
+	else:
+		small=y
+	for i in range(1,small+1):
+		if((x%i==0)and(y%i==0)):
+			
+					GCD = i
+	return GCD
+	
+n=int(input())
+m=int(input())
+t=GCD(n,m)
+p=int(input())
+print(GCD(t,p))
+Tahmid
+Tahmid Salam Swochso
+9/7/20, 1:23 PM
+You sent
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+You sent
+x=int(input())
+y=int(input())
+z=int(input())
+if x>y:
+       num=x
+else:
+       num=y
+while True:
+       if num%x==0 and num%y==0:
+              print("LCM 0f 2",num)
+              continue
+       num=num+1
+while True:
+       if num%z==0:
+              print("lcm of 3",num)
+              break
+       num=num+1
+9/7/20, 1:55 PM
+You sent
+x= int(input())
+a=int(0)
+i=int(1)
+while i<=x:
+    a=a+(i*i)
+    i+=1
+
+
+print(a)
+You sent
+একটি প্রোগ্রাম লিখ যেটি একটি সংখ্যা ইনপুট নিবে এবং 1 থেকে শুরু করে ঐ সংখ্যা পর্যন্ত যতগুলো সংখ্যা আছে তাদের বর্গের যোগফল প্রিন্ট কর।
+
+
+Sample Input 1 
+
+x = input() #5
+
+
+Output for Sample 1 is 55 (12+22+32+42+52
+You sent
+Leap Year বা অধিবর্ষ আমরা সবাই বুঝি। একটি সাল ইনপুট হিসেবে নাও এবং যাচাই কর উক্ত সালটি Leap Year কিনা। যদি হয় তবে প্রিন্ট কর 1, আর না হলে প্রিন্ট কর 2।
+
+
+Sample input
+
+X = input() #1992
+
+
+Output of the Sample input is 1
+You sent
+a=int(input())
+if a%4==0 and a%100!=0:
+	print("1")
+elif a%400==0:
+	print("1")
+else:
+	print("2")
+You sent
+তিনটি সংথ্যা ইনপুট নিয়ে এদের মধ্যে সবচেয়ে ছোট সংধ্যাটি কে তা প্রিন্ট কর।
+
+
+Sample input 1
+
+x = input() #7
+
+y = input() #5
+
+z = input() #6
+
+
+Output of sample 1 will be 5
+
+
+Sample input 1
+
+x = input() #17
+
+y = input() #15
+
+z = input() #16
+
+
+Output of sample 1 will be 15
+9/7/20, 10:57 PM
+Tahmid replied to you
+Tahmid Salam Swochso
+c=[]
+for i in range(1,100):
+	x=(input("enter"))
+	c.append(x)
+	c.sort()
+	if x=="s":
+		break
+
+print(c[0])
+9/7/20, 11:47 PM
+Tahmid
+Tahmid Salam Swochso
+x=int(input("1st "))
+y=int(input("2nd "))
+z=int(input("3rd "))
+num=x
+while True:
+	if num%x==0 and num%y==0:
+		if num%z==0:
+			print("LCM",num)
+			break
+	num=num+1
+9/8/20, 7:59 PM
+You sent
+You sent
+You sent
+9/8/20, 8:28 PM
+Tahmid
+Tahmid Salam Swochso
+9/9/20, 12:36 PM
+Tahmid
+Tahmid Salam Swochso
+x=int(input())
+y=int(input())
+z=int(input())
+if x<y and y<z:
+	print(x)
+if x<z and z<y:
+	print(x)	
+if z<y and y<x:
+	print(z)
+if z<x and x<y:
+	print(z)	
+if y<z and z<x:
+	print(y)
+if y<x and x<z:
+	print(y)
+else:
+    print("not working")
+9/9/20, 1:46 PM
+You sent
+a=[]
+p=float(2.00)
+q=float(3.00)
+r=float(3.50)
+s=float(4.00)
+t=float(5.00)
+u=int()
+v=float(0.00)
+def cheak_marks(marks,sub):
+    if(marks<=0):
+        print("{} mark is invalid\n".format(sub))
+    elif(marks<40):
+        print("{}\tF\n".format(sub))
+        a.append(v)
+        u.append(0)
+    elif(marks<=49):
+        print("{}\tC\n".format(sub))
+        a.append(p)
+    elif(marks<=59):
+        print("{}\tB\n".format(sub))
+        a.append(q)
+    elif(marks<=69):
+        print("{}\tA-\n".format(sub))
+        a.append(r)
+    elif(marks<=79):
+        print("{}\tA\n".format(sub))
+        a.append(s)
+    elif(marks<=100):
+        print("{}\tA+\n".format(sub))
+        a.append(t)
+    else:
+        print("{}\t invalid".format(sub))
+
+sub1='Bangla'
+sub2='English'
+sub3='Mathematics'
+sub4='Bangla 2nd'
+sub5='English 2nd'
+sub6='Religion'
+sub7='Social Science'
+sub8='Physics'
+sub9='Chemistry'
+sub10='Biology'
+ban=int(input("Enter mark in {} ".format(sub1)))
+eng=int(input("Enter mark in {} ".format(sub2)))
+math=int(input("Enter mark in {} ".format(sub3)))
+ban2=int(input("Enter mark in {} ".format(sub4)))
+eng2=int(input("Enter mark in {} ".format(sub5)))
+rel=int(input("Enter mark in {} ".format(sub6)))
+sosci=int(input("Enter mark in {} ".format(sub7)))
+phy=int(input("Enter mark in {} ".format(sub8)))
+che=int(input("Enter mark in {} ".format(sub9)))
+bio=int(input("Enter mark in {} ".format(sub10)))
+cheak_marks(ban,sub1)
+cheak_marks(eng,sub2)
+cheak_marks(math,sub3)
+cheak_marks(ban2,sub4)
+cheak_marks(eng2,sub5)
+cheak_marks(rel,sub6)
+cheak_marks(sosci,sub7)
+cheak_marks(phy,sub8)
+cheak_marks(che,sub9)
+cheak_marks(bio,sub10)
+def cheak_GPA():
+    i=0
+    b=10
+    x=float()
+
+    for i in range(b):
+        x=(x+a[i])
+
+    d=(x/b)
+    print("Your GPA without fail:{}".format(d))
+    if u==0:
+        d=d*u
+    print("Your Fail GPA is {}".format(d))
+    
+cheak_GPA()
+9/10/20, 7:12 AM
+You sent
+#Drawing a isosceles triangle
+import turtle
+t = turtle.Pen()
+t.forward(50)
+t.left(104.47751218592992)
+t.forward(100)
+t.left(151.04497562814015)
+t.forward(100)
+------------------------------
+# making a trianle using turtle with 3 arms
+#Creating a triangle
+import math
+import turtle
+A = 100
+B = 100
+C = 50
+a = math.acos((math.pow(A, 2) + math.pow(C, 2) - math.pow(B, 2)) / (2*A*C))
+b = math.acos((math.pow(A, 2) + math.pow(B, 2) - math.pow(C, 2)) / (2*B*A))
+a = 180 - math.degrees(a)
+b = 180 - math.degrees(b)
+t = turtle.Pen()
+t.forward(C)
+t.left(a)
+t.forward(A)
+t.left(b)
+t.forward(B)
+
+----------------------
+
+-----------------------
+5. simple calculations (calculating mass in moon)
+#Calculating weight in moon
+
+import sys
+def moon_weight():
+    print('Please enter your current Earth weight')
+    weight = float(sys.stdin.readline())
+    print('Please enter the amount your weight might increase each year')
+    increase = float(sys.stdin.readline())
+    print('Please enter the number of years')
+    years = int(sys.stdin.readline())
+    years = years + 1
+    for year in range(1, years):
+        weight = weight + increase
+        moon_weight = weight * 0.165
+        print('Year %s is %s' % (year, moon_weight))
+moon_weight()
+------------------------------
+
+8. #making a list of number using range function
+x = int(input("enter a new number : "))
+y = int(input("enter a another number :"))
+print(list(range(x, y+1)))
+
+---------------------------------
+#Use to Modeul
+age = int(input("Enter your age :"))
+age2 = age + 1
+
+print("Your age is %d"%age)
+print("After one year your age will be %d"%age2)
+---------------------------------
+#use . format 
+a = int(input("Enter your age"))
+b = a + 1
+print("now you are {} year old and after one year you {}".format(a, b))
+-----------------------------.
+#use to Rhombus
+import turtle
+t = turtle.Pen()
+t.forward(120)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(120)
+t.left(90)
+t.forward(50)
+-----------------------
+#make to ruselt 
+sub1 = "Bangla"
+sub2 = "English"
+sub3 = "Mathematics"
+ban = int(input("Enter marks in {} :".format(sub1)))
+eng = int(input("Enter marks in {} :".format(sub2)))
+math = int(input("Enter marks in {} :".format(sub3)))
+
+def check_marks(sub, marks):
+    if marks < 0:
+        print("{}\tInvalid".format(sub))
+    elif marks < 33:
+        print("{}\tF".format(sub))
+    elif marks < 40:
+        print("{}\tD".format(sub))
+    elif marks < 50:
+        print("{}\tC".format(sub))
+    elif marks < 60:
+        print("{}\tB".format(sub))
+    elif marks < 70:
+        print("{}\tA-".format(sub))
+    elif marks < 80:
+        print("{}\tA".format(sub))
+    elif marks <= 100:
+        print("{}\tA+".format(sub))
+    else:
+        print("{}\tInvalid".format(sub))
+check_marks(sub1, ban)
+check_marks(sub2, eng)
+check_marks(sub3, math)
+-------------------------------------
+
+#Def function use 
+def sum(a,b):
+    return a+b
+a=input("enter 1st number ")
+b=input("enter 2dn number ")
+z=(sum(int(a),int(b)))
+print("sum of two number is",+z)
+
+-----------------
+#How to make your Hard
+import turtle
+
+turtle.bgcolor("black")
+turtle.pensize(2)
+
+def curve():
+    for i in range(200):
+        turtle.right(1)
+        turtle.forward(1)
+turtle.speed(0)
+turtle.color("red","red")
+
+turtle.begin_fill()
+turtle.left(140)
+turtle.forward(111.65)
+curve()
+
+turtle.left(120)
+curve()
+turtle.forward(111.65)
+turtle.end_fill()
+turtle.hideturtle()
+
+------------------------
+# How to use  3 arm 3 triangle 
+a = int(input("Enter the first value of a arm :"))
+b = int(input("Enter the second value of another arm :"))
+c = int(input("Enter the third valur of the last arm :"))
+x = int(input("Please enter a value of a triangle :"))
+y = int(input("Please enter another value of a triangle :"))
+z = int(input("Please enter the value of the last angle of the triangle :"))
+
+li = [a, b, c]
+for i in li:
+    arm1 = max(a, b, c)
+    arm3 = min(a, b, c)
+    if i != arm1 and i != arm3:
+        arm2 = i
+if arm2+arm3>arm1:
+    if x + y + z == 180:
+        print("Yes")
+    else:
+        print("No")
+else:
+    print("No")
+-----------------------
+# import turtle library
+import turtle             
+colors = [ "red","purple","blue","green","orange","yellow"]
+my_pen = turtle.Pen()
+turtle.bgcolor("black")
+for x in range(360):
+   my_pen.pencolor(colors[x % 6])
+   my_pen.width(x/100 + 1)
+   my_pen.forward(x)
+   my_pen.left(59)
+------------------------
+#Turtel input to Star
+from turtle import *
+color('red', 'yellow')
+begin_fill()
+while True:
+    forward(200)
+    left(170)
+    if abs(pos()) < 1:
+        break
+end_fill()
+done()
+
+-------------------
+
+#Converting temperature in kalvin and farenheit from celcius
+C = float(input("Enter temperature in celcius :"))
+
+F = ((C*9)/5)+32
+K = C + 273
+
+print("This temperature in farenheit is {} and in kalvin is {}".format(F, K))
+--------------------------
+#counting so,e odd number
+x=int(input("please enter a starting number : "))
+y=int(input("please enter a finishing number : "))
+num = x
+while num !=y+1:
+    if num %2 != 0:
+        pr
+9/13/20, 7:36 PM
+You sent
+9/13/20, 9:43 PM
+Tahmid
+Tahmid Salam Swochso
+9/14/20, 8:09 PM
+Tahmid
+Tahmid Salam Swochso
+Tahmid unsent a message
+Tahmid
+Tahmid Salam Swochso
+Acer Aspire- 3
+ A315-56-533A.  549.99$
+ i5-1035G1
+ 8GB
+ 512GB SSD
+
+A315-55G-59LS.   619.99$
+i5-10210U
+Mx230-2GB
+8GB
+512GB SSD
+
+A315-56-594W.       449$
+i5-1035G1
+8GB
+256GB SSD
+
+.........Acer Aspire 5.  ......
+
+ A515-55-588c                          559.99$
+i5-1035G1
+8GB
+512SSD
+
+Lenovo Ideapad S145.   53k tk
+i5-1035G4
+4GB
+1 Tb hdd
+
+Dell inspiron 14-3493.      58,5000
+i5-1035G1
+4GB
+Mx230 2gb
+1 TB HDD
+9/15/20, 2:37 PM
+You sent
+def ap(a,l,d):
+    result=0
+    for i in range(a,l+1,d):
+        print(i)
+        result=result+i
+    return(result)
+a=int(input("first term :"))
+b=int(input("difference term :"))
+n=int(input("no of term :"))
+l=a+(n*d-d)
+print(ap(a,l,d))
+9/16/20, 6:22 PM
+Tahmid
+Tahmid Salam Swochso
+9/17/20, 3:01 PM
+You sent
+#make to ruselt 
+sub1 = "Bangla"
+sub2 = "English"
+sub3 = "Mathematics"
+ban = int(input("Enter marks in {} :".format(sub1)))
+eng = int(input("Enter marks in {} :".format(sub2)))
+math = int(input("Enter marks in {} :".format(sub3)))
+
+def check_marks(sub, marks):
+    if marks < 0:
+        print("{}\tInvalid".format(sub))
+    elif marks < 33:
+        print("{}\tF".format(sub))
+    elif marks < 40:
+        print("{}\tD".format(sub))
+    elif marks < 50:
+        print("{}\tC".format(sub))
+    elif marks < 60:
+        print("{}\tB".format(sub))
+    elif marks < 70:
+        print("{}\tA-".format(sub))
+    elif marks < 80:
+        print("{}\tA".format(sub))
+    elif marks <= 100:
+        print("{}\tA+".format(sub))
+    else:
+        print("{}\tInvalid".format(sub))
+check_marks(sub1, ban)
+check_marks(sub2, eng)
+check_marks(sub3, math)
+9/18/20, 4:51 PM
+Tahmid
+Tahmid Salam Swochso
+9/18/20, 11:49 PM
+You sent
+Tomader 5 class online nibo ami kal nilfamari jabo
+9/19/20, 7:01 AM
+You sent
+TOMAR CLASS 12.30
+Tahmid
+Tahmid Salam Swochso
+9/19/20, 12:34 PM
+Tahmid
+Tahmid Salam Swochso
+Oh sir .....i am present
+You sent
+পরে ক্লাস নিব এখন আসলাম
+Tahmid
+Tahmid Salam Swochso
+Ok sir.....
+9/20/20, 7:07 AM
+You sent
+aj thaky class start hoby
+9/20/20, 9:41 AM
+Tahmid
+Tahmid Salam Swochso
+Sir koytay
+9/20/20, 11:21 AM
+You sent
+#decision control
+print("welcom this is number guesing game")
+x=input("guess the number ") #if statement
+if(x==4):
+    print("your guess is right , great, you  win")
+
+if(x!=4):
+    print("oops, your guess is wrong")
+You sent
+def quabe(a):
+    return a*a*a
+x=input("enter a new number")
+y=(quabe(int(x)))
+print("quabe of number is " +str(y))
+You sent
+def strings (a,b):
+    return a+b
+print(strings("Rahul ", "Islam"))
+9/20/20, 12:53 PM
+You sent
+#decision control
+print("welcom this is number guesing game")
+x=int(input("guess the number ")) #if statement
+if(x==4):
+    print("your guess is right , great, you  win")
+else:
+    if(x<4):
+        print("too low")
+    else:
+        print("to high")
+    print("you loose")
+You sent
+welcom this is number guesing game
+guess the number 5
+to high
+you loose
+guess the number 3
+too low
+you loose
+guess the number 3
+too low
+you loose try agine late sometime
+You sent
+9/20/20, 4:30 PM
+You sent
+You sent
+9/21/20, 7:35 AM
+Tahmid
+Tahmid Salam Swochso
+#decision control
+print("welcom this is number guesing game")
+a=int()
+for i in range(1,100):
+    
+    x=int(input("guess the number "))
+    if(x==4):
+        a=int()
+        print("your guess is right , great, you  win")
+    else:
+        a=a+1
+        if(x<4):
+            print("too low")
+        else:
+            print("to high")
+        print("you loose")
+    if(a%3==0):
+    	print("try again")
+9/21/20, 7:57 AM
+You sent
+#PASSWORD
+while True:
+    x=str(input("what is your name : "))
+    if(x!="rahul"):
+        continue
+    y= str(input("hello rahul, what is your password "))
+    if(x=="rahul123"):
+        break
+print("access granted, Wellcome to rahul")
+You sent
+def print_number(x):
+    i=1
+    while(i<=x):
+        print (i)
+        i=i+1
+print(print_number(25))
+You sent
+def print_number(x):
+    i=1
+    while True:
+        print (i)
+        i=i+1
+print(print_number(25))
+You sent
+def print_number(x):
+    i=1
+    while True:
+        if (i>x):
+            break
+        print (i)
+        i=i+1
+print(print_number(25))
+9/21/20, 8:58 AM
+Tahmid
+Tahmid Salam Swochso
+You sent
+You unsent a message
+You sent
+#list
+fruits=["apple","mango","grapes"]
+fruits[0]="banana"
+fruits.append('apple')
+print(fruits[-1])
+print(fruits)
+print(fruits[0])
+print(fruits[0].title())
+You sent
+#pop method
+fruits=["apple","mango","grapes"]
+x=fruits.pop()
+print(fruits)
+print(x)
+You sent
+#remove method
+fruits=["apple","mango","grapes"]
+fruits.remove('mango')
+print(fruits)
+You sent
+animals=['elephant', 'cow','dog','fox']
+x=animals.index('elephant')
+print(x)
+animals.reverse()
+print(animals)
+animals.sort()
+print(animals)
+animals.sort()
+print(animals)
+animals.sort(reverse=True)
+print(animals)
+Tahmid
+Tahmid Salam Swochso
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+9/22/20, 10:59 AM
+You sent
+#sum of digits ......... ass- 1+2+3
+x=input('enter 3 digit number')
+print(int(x[0])+int(x[1])+int(x[2]))
+#x[i]loops while. result
+a=input('enter number')
+b=len(a)
+i=0
+result=0
+while(i<b):
+    result=result+int(x[i])
+    i=i+1
+print(result)
+You sent
+x=("Bangladesh")
+x=list(x)
+print(x)
+You sent
+#list in list
+#list fangction
+animals=[['cat','dog','cow'],'horse','monky','tiger']
+print(animals[0][1][0])
+9/22/20, 12:05 PM
+Tahmid
+Tahmid Salam Swochso
+x=("Bangladesh")
+b=len(x)
+i=0
+while i<b:
+	print(x[i])
+	i=i+1
+You sent
+Bangla desh
+Tahmid
+Tahmid Salam Swochso
+x=("Bangladesh")
+d=x.find("d")
+print(x[:d-1]+  "   "  +x[d:])
+9/22/20, 12:44 PM
+Tahmid
+Tahmid Salam Swochso
+x=("Bangladesh")
+space=" "
+d=x.find("d")
+print(x[:d-1]+space+x[d:])
+9/24/20, 9:32 AM
+You sent
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player+'is very good players')
+You sent
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player.upper())
+You sent
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player.title())
+You sent
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player)
+You sent
+#koto gulo items ar list banaithy hoby
+x=int(input('how many items you want to store in your list ?'))
+items=[]
+i=0
+while(i<x):
+    y=str(input("enter the item for your list"))
+    items.append(y)
+    i=i+1
+z=sorted(items)
+print(("your list in alphabetically order ")+str(z))
+print("you want to change any item in your list : yes/no ?")
+a=str(input())
+if(a=='yes'):
+    b=input("which item you want to change ")
+    c=z.index(b)
+    print(("ok which item you want to place of ")+str(b))
+    t=str(input())
+    z[c]=t
+    print("now your complete list is "+ str(z))
+if(a=='no'):
+    print("thank you")
+9/28/20, 8:22 AM
+You sent
+import math
+store = []
+lower=int(2)
+upper=int(input())
+for num in range (lower, upper+1):
+ if num>1:
+  for i in range (2,num):
+   if num % i==0:
+    break
+  else: 
+    store.append(num)
+print(len(store))
+You sent
+
+
+
+
+
+
+
+
+
+
+
+
+x=[1,2,3,4,5,'one','two','three']#in word/ in opertor
+print(2 in x)
+You sent 
+9/29/20, 12:42 PM
+You sent
+10/1/20, 1:18 PM
+You sent
+10/6/20, 8:38 PM
+You sent
+10/7/20, 2:55 PM
+Tahmid
+Tahmid Salam Swochso
+Sir asachi aktu late a bolam
+10/8/20, 9:54 AM
+You sent
+#veriables
+broAge=18
+myAge=22
+number=2
+#we used to be like this
+print("my age is "+str(myAge))
+print("my age is {}". format(myAge))
+print("my age is {} and my brother age is {}". format(myAge,broAge))
+#2. Working with positions
+print("my age is {} years is {} month is {}days".format(1990,4,1))
+print("my age is {2} days is {1} month  is {0} years".format(1990,4,1))
+#3. Type conversion ( int to float )
+print("my age is {0:f}".format(myAge))
+print("my age is {0:.1f}".format(myAge))
+#4. type conversion (double to float)
+print("my age is 3 but is {}".format(number/3))
+print("my age is 3 but is {0:f}".format(number/3))
+print("my age is 3 but is {0:.2f}".format(number/3))
+#5. spacing useing 'd'
+print("my age is {0:4d}".format(myAge))
+10/8/20, 11:12 AM
+You sent
+10/8/20, 1:01 PM
+Tahmid
+Tahmid Salam Swochso
+10/9/20, 9:48 PM
+You sent
+https://www.facebook.com/hindutvamedia/videos/427940131509257/
+कैसे एक छोटे से बच्चे ने नासा के सिस्टम को हैक कर लिया जिसके बाद उसे बहुत बड़ी कीमत चुकानी पड़ी
+हिंदुत्व Hindutva
+10/9/20, 10:34 PM
+You sent
+#carat symbol(^) for center the text in the fields
+print("{0:*^11s}".format("abods"))
+#example of formating inside loop
+for i in range (10):
+       print("{}{}{}". format(i,i**2,i**3))
+#1. split
+s="Mahafuj Al Mahabub Rahul"
+i=s.split(" ")
+print(i)
+#2. join
+o=["Mahafuj", "Al", "Mahabub", "Rahul"]
+s=" ".join(o)
+print(s)
+#3. count
+L=[1,2,3,4,5,6,4,5,4,8,7]
+print(L.count(4))
+#4. Replace
+a=("today is complet python class")
+t=a.replace('is','was')
+print(t)
+10/10/20, 8:58 PM
+You sent
+10/11/20, 9:17 PM
+You sent
+You sent
+10/11/20, 9:49 PM
+You sent
+কাল তুমি সকালে আসিও
+10/11/20, 10:42 PM
+You sent
+You sent
+You sent
+10/12/20, 10:04 AM
+You sent
+Tahmid
+Tahmid Salam Swochso
+10/12/20, 8:01 PM
+You sent
+তোমার ক্লাস টাইম কাল দুপুর ১২.৩০ মিনিট
+Tahmid
+Tahmid Salam Swochso
+Ok sir
+You sent
+কাল কি পে করবা
+10/13/20, 7:50 AM
+Tahmid
+Tahmid Salam Swochso
+You forwarded an image
+You forwarded an image
+You sent
+10/17/20, 12:13 PM
+You sent
+#dictionaries#mappings
+#key
+d={'key1':"rahul",'key2':"asif",'key3':"rahath"}
+#items
+for i,e in d.items():
+    print(('key is ' +str(i))+(" and its value is "+str(e)))
+
+
+
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahul",'hight':'3.6feet','age':22}
+if d==d3:
+    print("same")
+else:
+    print("diffarent")
+
+
+
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahat",'hight':'3.6feet','age':22}
+if d==d3:
+    print("same")
+else:
+    print("diffarent")
+
+
+
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahat",'hight':'3.6feet','age':22}
+for i in sorted (d.items()):
+    print(i)
+
+
+
+#dictionaries#mappings
+#key
+d={
+    'name':"rahul",
+    'age':22,
+    'hight':'3.6feet'
+    }
+for i in sorted (d.items()):
+    print(i)
+10/17/20, 1:01 PM
+You sent
+https://GramFree.world/?r=2457250
+GramFree
+10/18/20, 1:45 PM
+Tahmid
+Tahmid Salam Swochso
+10/18/20, 2:25 PM
+Tahmid
+Tahmid Salam Swochso
+c=[]
+sub1 = "bangla"
+sub2 = "English"
+sub3 = "mathmat"
+ban=int(input("Enter marks in{}:".format(sub1)))
+eng=int(input("enter marks in {}:".format(sub2)))
+math=int(input("enter marks in {}:".format(sub3)))
+
+def check(sub,marks):
+       if marks<0:
+              print("{}\tinvalid".format(sub))
+              c.append(0)
+       elif marks<33:
+              print("{}\tF".format(sub))
+              c.append(0)
+       elif marks<40:
+              print("{}\tD".format(sub))
+              c.append(1)
+       elif marks<50:
+              print("{}\tC".format(sub))
+              c.append(2)
+       elif marks<60:
+              print("{}\tB".format(sub))
+              c.append(3)
+       elif marks<70:
+              print("{}\tA-".format(sub))
+              c.append(3.5)
+       elif marks<80:
+              print("{}\tA".format(sub))
+              c.append(4)
+       elif marks<=100:
+              print("{}\t\tA+".format(sub))
+              c.append(5)
+       else:
+              print("khuch to goalmal hai")
+              
+              
+              
+check(sub1,ban)
+check(sub2,eng)
+check(sub3,math)
+for i in (1,2):
+       if c[i]==0:
+              i=i+1
+              gpa=0
+       else:
+
+              def gpa():
+       
+                     b=int(3)#subject number
+                     s=int()
+                     for i in range(b):
+                            s=s+c[i]
+                     f=s/b       
+                     print("your gpa is :{}".format(f))
+                     return f
+                     gpa=gpa()
+
+
+if gpa<0:
+       print("\tF")
+elif gpa<1:
+       print("\tD")
+elif gpa<2:
+       print("\tc")
+elif gpa<3:
+       print("\tB")
+elif gpa<3.5:
+       print("\tA-")
+elif gpa<4:
+       print("\tA")
+elif gpa<=5:
+       print("\tA+")
+10/18/20, 9:18 PM
+You sent
+10/19/20, 10:36 AM
+Tahmid
+Tahmid Salam Swochso
+c=[]
+sub1 = "bangla"
+sub2 = "English"
+sub3 = "mathmat"
+ban=int(input("Enter marks in{}:".format(sub1)))
+eng=int(input("enter marks in {}:".format(sub2)))
+math=int(input("enter marks in {}:".format(sub3)))
+
+def check(sub,marks):
+       if marks<0:
+              print("{}\tinvalid".format(sub))
+              c.append(0)
+       elif marks<33:
+              print("{}\tF".format(sub))
+              c.append(0)
+       elif marks<40:
+              print("{}\tD".format(sub))
+              c.append(1)
+       elif marks<50:
+              print("{}\tC".format(sub))
+              c.append(2)
+       elif marks<60:
+              print("{}\tB".format(sub))
+              c.append(3)
+       elif marks<70:
+              print("{}\tA-".format(sub))
+              c.append(3.5)
+       elif marks<80:
+              print("{}\tA".format(sub))
+              c.append(4)
+       elif marks<=100:
+              print("{}\t\tA+".format(sub))
+              c.append(5)
+       else:
+              print("khuch to goalmal hai")
+              
+              
+              
+check(sub1,ban)
+check(sub2,eng)
+check(sub3,math)
+def gpa():
+    b=int(3)#subject number
+    s=int()
+    for i in range(b):
+    	s=s+c[i]
+    f=s/b
+    print("your gpa is :{}".format(f))
+    return f
+    
+for i in c:
+    if i==0:
+        gpa=0
+        print(c)
+        print("your Gpa is 0.00")
+        break
+else:
+    gpa=gpa()
+    
+    	
+    
+    	
+             
+
+
+if gpa==0:
+       print("\tF")
+elif gpa<1:
+       print("\tD")
+elif gpa<2:
+       print("\tc")
+elif gpa<3:
+       print("\tB")
+elif gpa<3.5:
+       print("\tA-")
+elif gpa<4:
+       print("\tA")
+elif gpa<=5:
+       print("\tA+")
+10/19/20, 1:20 PM
+Tahmid
+Tahmid Salam Swochso
+def cheak_marks(sub,marks):
+               if marks<0:
+                      print("{}\tInvalid".format(sub))
+               elif marks<33:
+                   
+                   print("{}\tF".format(sub))
+               elif marks<40:
+                   
+                   print("{}\tD".format(sub))
+               elif marks<50:
+                   
+                   print("{}\tC".format(sub))
+               elif marks<60:
+                   
+                   print("{}\tB".format(sub))
+               elif marks<70:
+                   
+                   print("{}\tA-".format(sub))
+               elif marks<80:
+                   
+                   print("{}\tA".format(sub))
+               elif marks<=100:
+                   
+                   print("{}\tA+".format(sub))
+               else:
+                   
+                   print("{}\tInvalid".format(sub))
+def Point(a):
+    if a>=91 and a<=100:
+           g="GPA is A+ and Point is 5.00"
+       
+    elif a>=81 and a<=90:
+           g="GPA is A and Point is 4.50"
+    elif a>=71 and a<=80:
+           g="GPA is A- and Point is 4.00"
+    elif a>=61 and a<=70:
+           g="GPA is B and Point is 3.50"
+    elif a>=51 and a<=60:
+           g="GPA is C and Point is 3.00"
+    elif a>=41 and a<=50:
+           g="GPA is D and Point is 2.50"
+    elif a<=40:
+           g="GPA is D and Point is 2.00"
+    else:
+           g="GPA is F and Point is 0"
+    return g
+sub=['Bangla','English','Math','Science','B&G','Religion']
+marks=[]
+g=int()
+f=0
+
+
+names=str(input("Student name:"))
+for i in range(0,6):
+    b=int(input("Enter {} mark:\t".format(sub[i])))
+    marks.append(b)
+for i in range(0,6):
+    cheak_marks(sub[i],marks[i])
+    
+for i in range(1,33):
+    if (i in marks):
+        f=1
+if f==1:
+    print("\n{} GPA is {}".format(names,g))
+else:
+    b=int((sum(marks)/6))
+    print("\n{} {}".format(names,Point(b)))
+10/19/20, 8:25 PM
+Tahmid
+Tahmid
+Tahmid Salam Swochso
+You sent
+Computers are now used in all the sectors. And the language of computers is programming. You can do wonders using a computer if you know programming.
+
+In future, those who have sound knowledge of programming will rule the world. That’s why, this event is organized to inspire students of school and college to become expert programmers. Some of you might now know a lot about programming. So we are giving you a sample code, which prints “Hello World!” (without the quotes). Now you have to change the program in such a way that it prints “Welcome to NCTPC 2018”
+
+কম্পিউটার এমন এক যন্ত্র যা এখন সব জায়গাতেই বহুল ভাবে ব্যবহৃত হচ্ছে। আর কম্পিউটারের ভাষা হল প্রোগ্রামিং। প্রোগ্রামিং জানলেই কম্পিউটারকে দিয়ে অসম্ভব সব কাজ করিয়ে নেওয়া যায়।
+
+আগামীতে তারাই বিশ্বকে শাসন করবে যারা এই প্রোগ্রামিং এ উন্নত। তাই তো উন্নত মানের প্রোগ্রামার তৈরীর জন্য স্কুল কলেজের স্টুডেন্টদেরকে উদ্বুদ্ধ করার জন্য এই আয়োজন। তোমাদের অনেকেই হয়ত প্রোগ্রামিং সম্পর্কে খুব বেশি জাননা। তাই আমরা তোমাদেরকে একটি নমুন প্রোগ্রাম দিলাম, যা “Hello World!” (উদ্ধৃতি ছাড়া) কথাটি প্রিন্ট করে। তোমার কাজ হচ্ছে এই প্রোগ্রামটিকে এমন ভাবে পরিবর্তন করা যাতে তা “Welcome to NCTPC 2018” এই কথাটি প্রিন্ট করে।
+
+
+
+Input Specification (ইনপুটের বিবরণ)
+
+There is no input for this problem.
+
+এই সমস্যাটির জন্য কোন ইনপুট নেই।
+
+Output Specification (আউটপুটের বিবরণ)
+
+There is only one line of output for this problem, which prints “Welcome to NCTPC 2018” (without the quotes).
+
+এই সমস্যাটির আউটপুট হবে এক লাইন, যেখানে প্রিন্ট করা থাকবে “Welcome to NCTPC 2018” (উদ্ধৃতি চিহ্ন ছাড়া)।
+
+Two triangles are congruent to each other, if their corresponding sides are equal in length. You’ll be give the three sides of two triangles. You’ll have to tell whether the triangles are congruent to each other or not.
+
+দুইটি ত্রিভুজের অনুরূপ বাহুগুলো সমান হলে, তাদের সর্বসম ত্রিভুজ বলে। তোমাকে দুইটি ত্রিভুজের তিনটি করে বাহুর দৈর্ঘ্য দেওয়া হবে। ত্রিভুজদ্বয় সর্বসম কিনা, সেটা তোমাকে নির্ণয় করতে হবে।
+
+Input Specification (ইনপুটের বিবরণ)
+
+You’ll be given 6 integers (A1, A2, A3, B1, B2, B3); 1 ≤ A1, A2, A3, B1, B2, B3 ≤ 100. A1, A2, A3 indicates the lengths of triangle A. And B1, B2, B3 indicates the lengths of triangle B. The sides of the triangles will be given in non-decreasing order of lengths (A1 ≤ A2 ≤ A3 and B1 ≤ B2 ≤ B3). Triangles will be valid (A1+A2 > A3 and B1+B2 > B3).
+
+তোমাকে ৬টি ইন্টিজার দেওয়া হবে (A1, A2, A3, B1, B2, B3); 1 ≤ A1, A2, A3, B1, B2, B3 ≤ 100. A1, A2, A3 দ্বারা ত্রিভুজ A এর বাহুত্রয়কে প্রকাশ করা হয়েছে। এবং B1, B2, B3 দ্বারা ত্রিভুজ B এর বাহুত্রয়কে প্রকাশ করা হয়েছে। ইনপুটে ত্রিভুজের বাহুত্রয়কে তাদের দৈর্ঘ্যের ছোট থেকে বড় ক্রমে দেওয়া থাকবে (A1 ≤ A2 ≤ A3 and B1 ≤ B2 ≤ B3). ত্রিভুজদ্বয় বৈধ হবে (A1+A2 > A3 and B1+B2 > B3).
+
+Output Specification (আউটপুটের বিবরণ)
+
+Print “Yes” (without quotations), if the triangles are congruent to each other. Otherwise print “No” (with quotations).
+
+ত্রিভুজদ্বয় সর্বসম হলে “Yes” প্রিন্ট কর (উদ্ধৃতি চিহ্ন ব্যতীত), অন্যথায় “No” প্রিন্ট কর (উদ্ধৃতি চিহ্ন ব্যতীত)।
+
+Samples
+Input	Output
+6 7 8 6 7 8	Yes
+Input	Output
+22 55 71 26 29 37	No
+
+Have you ever played “catch me if you can!” with your friend? If not then here is the game. You and your friend are standing on a plane which can be donated by 2D points in cartesian co-ordinate system (Like (2,5),(-3,2) etc). Say, you are standing on a point A and your friend is standing on a point B. A and B are different points. You and your friend both can run at a same speed V meters per second. Your friend wants to move close to you as much as he can and you want to move as far as you can from your friend. If you both run optimally(You will play in a way so that distance between you and him is maximum possible and he will play in a way so that distance between you and him is minimum possible) then you have to tell after T seconds what will be the distance between you and your friend.
+
+তুমি কি কখনো তোমার বন্ধুর সাথে "আমায় ধরতে পারবে কি!" খেলেছ? যদি না খেলে থাক তাহলে এখন দেখে নাও। তুমি আর তোমার বন্ধু একটি সমতল পৃষ্ঠে দাঁড়িয়ে আছ যেটাকে দ্বিমাত্রিক কার্তেসীয় কো-অর্ডিনেট পদ্ধতিতে বিন্দু হিসেবে কল্পনা করা যায়(যেমন (2,5),(-3,2) এরকম আরও অনেক)। মনে কর তুমি A বিন্দুতে দাঁড়িয়ে আছ আর তোমার বন্ধু B বিন্দুতে দাঁড়িয়ে আছে। A এবং B দুটি ভিন্ন বিন্দু। তুমি এবং তোমার বন্ধু দুজনই সমান গতিতে দৌড়াতে পার যা হল প্রতি সেকেন্ডে V মিটার। তোমার বন্ধু তোমার যত কাছাকাছি আসা যায় আসতে চায় এবং তুমি তোমার বন্ধু হতে যত দুরে যাওয়া যায় যেতে চাও। তোমারা যদি দুইজনই সঠিকভাবে খেল(তুমি এমন ভাবে খেলবে যাতে তাকে তোমার থেকে সবচেয়ে দুরে রাখা সম্ভব হয় এবং সে এমনভাবে খেলেবে যেন সে তোমার সবচেয়ে কাছে আসতে পারে) তাহলে বলতে হবে T সেকেন্ড পরে তোমাদের মধ্যে দূরত্ব কত হবে?
+
+Input Specification (ইনপুটের বিবরণ)
+
+Input consists of 6 integers. The integers will be in this format.
+
+Ax Ay Bx By V T
+
+First two integers Ax, Ay, denote the cartesian co-ordinate of you(point A). Then the next two integers Bx, By, denote the cartesian co-ordinate of your friend(point B). Then the next integer V, denotes you and your friend's speed(V meters per second) and the next integer T, denotes the time(in
+You forwarded a message
+Computers are now used in all the sectors. And the language of computers is programming. You can do wonders using a computer if you know programming.
+
+In future, those who have sound knowledge of programming will rule the world. That’s why, this event is organized to inspire students of school and college to become expert programmers. Some of you might now know a lot about programming. So we are giving you a sample code, which prints “Hello World!” (without the quotes). Now you have to change the program in such a way that it prints “Welcome to NCTPC 2018”
+
+কম্পিউটার এমন এক যন্ত্র যা এখন সব জায়গাতেই বহুল ভাবে ব্যবহৃত হচ্ছে। আর কম্পিউটারের ভাষা হল প্রোগ্রামিং। প্রোগ্রামিং জানলেই কম্পিউটারকে দিয়ে অসম্ভব সব কাজ করিয়ে নেওয়া যায়।
+
+আগামীতে তারাই বিশ্বকে শাসন করবে যারা এই প্রোগ্রামিং এ উন্নত। তাই তো উন্নত মানের প্রোগ্রামার তৈরীর জন্য স্কুল কলেজের স্টুডেন্টদেরকে উদ্বুদ্ধ করার জন্য এই আয়োজন। তোমাদের অনেকেই হয়ত প্রোগ্রামিং সম্পর্কে খুব বেশি জাননা। তাই আমরা তোমাদেরকে একটি নমুন প্রোগ্রাম দিলাম, যা “Hello World!” (উদ্ধৃতি ছাড়া) কথাটি প্রিন্ট করে। তোমার কাজ হচ্ছে এই প্রোগ্রামটিকে এমন ভাবে পরিবর্তন করা যাতে তা “Welcome to NCTPC 2018” এই কথাটি প্রিন্ট করে।
+
+
+
+Input Specification (ইনপুটের বিবরণ)
+
+There is no input for this problem.
+
+এই সমস্যাটির জন্য কোন ইনপুট নেই।
+
+Output Specification (আউটপুটের বিবরণ)
+
+There is only one line of output for this problem, which prints “Welcome to NCTPC 2018” (without the quotes).
+
+এই সমস্যাটির আউটপুট হবে এক লাইন, যেখানে প্রিন্ট করা থাকবে “Welcome to NCTPC 2018” (উদ্ধৃতি চিহ্ন ছাড়া)।
+
+Two triangles are congruent to each other, if their corresponding sides are equal in length. You’ll be give the three sides of two triangles. You’ll have to tell whether the triangles are congruent to each other or not.
+
+দুইটি ত্রিভুজের অনুরূপ বাহুগুলো সমান হলে, তাদের সর্বসম ত্রিভুজ বলে। তোমাকে দুইটি ত্রিভুজের তিনটি করে বাহুর দৈর্ঘ্য দেওয়া হবে। ত্রিভুজদ্বয় সর্বসম কিনা, সেটা তোমাকে নির্ণয় করতে হবে।
+
+Input Specification (ইনপুটের বিবরণ)
+
+You’ll be given 6 integers (A1, A2, A3, B1, B2, B3); 1 ≤ A1, A2, A3, B1, B2, B3 ≤ 100. A1, A2, A3 indicates the lengths of triangle A. And B1, B2, B3 indicates the lengths of triangle B. The sides of the triangles will be given in non-decreasing order of lengths (A1 ≤ A2 ≤ A3 and B1 ≤ B2 ≤ B3). Triangles will be valid (A1+A2 > A3 and B1+B2 > B3).
+
+তোমাকে ৬টি ইন্টিজার দেওয়া হবে (A1, A2, A3, B1, B2, B3); 1 ≤ A1, A2, A3, B1, B2, B3 ≤ 100. A1, A2, A3 দ্বারা ত্রিভুজ A এর বাহুত্রয়কে প্রকাশ করা হয়েছে। এবং B1, B2, B3 দ্বারা ত্রিভুজ B এর বাহুত্রয়কে প্রকাশ করা হয়েছে। ইনপুটে ত্রিভুজের বাহুত্রয়কে তাদের দৈর্ঘ্যের ছোট থেকে বড় ক্রমে দেওয়া থাকবে (A1 ≤ A2 ≤ A3 and B1 ≤ B2 ≤ B3). ত্রিভুজদ্বয় বৈধ হবে (A1+A2 > A3 and B1+B2 > B3).
+
+Output Specification (আউটপুটের বিবরণ)
+
+Print “Yes” (without quotations), if the triangles are congruent to each other. Otherwise print “No” (with quotations).
+
+ত্রিভুজদ্বয় সর্বসম হলে “Yes” প্রিন্ট কর (উদ্ধৃতি চিহ্ন ব্যতীত), অন্যথায় “No” প্রিন্ট কর (উদ্ধৃতি চিহ্ন ব্যতীত)।
+
+Samples
+Input	Output
+6 7 8 6 7 8	Yes
+Input	Output
+22 55 71 26 29 37	No
+
+Have you ever played “catch me if you can!” with your friend? If not then here is the game. You and your friend are standing on a plane which can be donated by 2D points in cartesian co-ordinate system (Like (2,5),(-3,2) etc). Say, you are standing on a point A and your friend is standing on a point B. A and B are different points. You and your friend both can run at a same speed V meters per second. Your friend wants to move close to you as much as he can and you want to move as far as you can from your friend. If you both run optimally(You will play in a way so that distance between you and him is maximum possible and he will play in a way so that distance between you and him is minimum possible) then you have to tell after T seconds what will be the distance between you and your friend.
+
+তুমি কি কখনো তোমার বন্ধুর সাথে "আমায় ধরতে পারবে কি!" খেলেছ? যদি না খেলে থাক তাহলে এখন দেখে নাও। তুমি আর তোমার বন্ধু একটি সমতল পৃষ্ঠে দাঁড়িয়ে আছ যেটাকে দ্বিমাত্রিক কার্তেসীয় কো-অর্ডিনেট পদ্ধতিতে বিন্দু হিসেবে কল্পনা করা যায়(যেমন (2,5),(-3,2) এরকম আরও অনেক)। মনে কর তুমি A বিন্দুতে দাঁড়িয়ে আছ আর তোমার বন্ধু B বিন্দুতে দাঁড়িয়ে আছে। A এবং B দুটি ভিন্ন বিন্দু। তুমি এবং তোমার বন্ধু দুজনই সমান গতিতে দৌড়াতে পার যা হল প্রতি সেকেন্ডে V মিটার। তোমার বন্ধু তোমার যত কাছাকাছি আসা যায় আসতে চায় এবং তুমি তোমার বন্ধু হতে যত দুরে যাওয়া যায় যেতে চাও। তোমারা যদি দুইজনই সঠিকভাবে খেল(তুমি এমন ভাবে খেলবে যাতে তাকে তোমার থেকে সবচেয়ে দুরে রাখা সম্ভব হয় এবং সে এমনভাবে খেলেবে যেন সে তোমার সবচেয়ে কাছে আসতে পারে) তাহলে বলতে হবে T সেকেন্ড পরে তোমাদের মধ্যে দূরত্ব কত হবে?
+
+Input Specification (ইনপুটের বিবরণ)
+
+Input consists of 6 integers. The integers will be in this format.
+
+Ax Ay Bx By V T
+
+First two integers Ax, Ay, denote the cartesian co-ordinate of you(point A). Then the next two integers Bx, By, denote the cartesian co-ordinate of your friend(point B). Then the next integer V, denotes you and your friend's speed(V meters per second) and the next integer T, denotes the time(in second) when you have to tell the distance between you and your friend if you run optimally.
+
+ইনপুটে ছয়টি পূর্ণসংখ্যা দেয়া থাকবে। এগুলো এরকম ভাবে থাকবে।
+
+Ax Ay Bx By V T
+
+প্রথম দুটি পূর্ণসংখ্যা Ax, Ay, তোমার বিন্দুর কার্তেসীয় কো-অর্ডিনেট নির্দেশ করে(A বিন্দু)। পরের দুইটি পূর্ণসংখ্যা Bx, By, তোমার বন্ধুর কার্তেসীয় কো-অর্ডিনেট নির্দেশ করে(B বিন্দু)। পরের পূর্ণসংখ্যাটি V, তোমার আর তোমার বন্ধুর গতিকে নির্দেশ করে(প্রতি সেকেন্ডে V মিটার) এবং পরের পূর্ণসংখ্যাটি T, সেই সময়কে(সেকেন্ডে) নির্দেশ করে যখন তোমায় বলতে হবে তোমার আর তোমার বন্ধুর মধ্যে দূরত্ব কত।
+
+-100 <= Ax, Ay, Bx, By <= 100
+
+1 <= V <= 1000
+
+0 <= T <= 1000
+
+Output Specification (আউটপুটের বিবরণ)
+
+You have to print a single floating point real number, which has 6 digits after the decimal point that denotes the distance between you and your friend if both of you run optimally.
+
+তোমাকে একটি বাস্তব সংখ্যা প্রিন্ট করতে হবে যার দশমিকের পরে ছয়টি ডিজিট/অংক থাকবে, যেটি নির্দেশ করে তোমার আর তোমার বন্ধুর মধ্যে দূরত্ব যদি তোমরা সঠিকভাবে খেল।
+
+Sample
+Input	Output
+0 0 5 0 1 0	5.000000
+
+You are given a rectangular floor of size N x M. You have to cover this floor with only one type of A x A sized square tiles. A can be any integer. However, you have to satisfy following conditions: you can not break the tiles, no two tiles can overlap each other, there can be no uncovered space on the floor and no tile can get outside the floor. If you choose A optimally, find the minimum number of tiles you need to cover the floor.
+
+N x M সাইজের একটি আয়তকার ফ্লোর দেয়া আছে। A x A সাইজের একটি নির্দিস্ট টাইপের বর্গাকার টাইল দিয়ে পুরো ফ্লোর টি ঢাকতে হবে। বর্গাকার টাইলটির ধৈর্ঘ্য A যেকোন পূর্ণসংখ্যা হতে পারে। ফ্লোরটি ঢাকতে তোমাকে কতগুলো শর্ত মানতে হবেঃ কোন টাইল ভাঙা যাবে না, কোন একটি টাইল আরেকটি টাইলের উপরে উঠতে পারবে না, ফ্লোর এর কোন অংশ ফাকা রাখা যাবে না এবং টাইলের কোন অংশ ফ্লোরের বাইরে যেতে পারবে না।
+
+তুমি যদি টাইলের সাইজ সুবিধামত ঠিক কর, তাহলে সর্বনিম্ন কতগুলো টাইল দিয়ে পুরো ফ্লোরটি ঢাকতে পারবে?
+
+Input Specification (ইনপুটের বিবরণ)
+
+You will be given 2 integers (N, M); 1 ≤ N, M ≤ 40000.
+
+তোমাকে দুটি ইন্টিজার দেয়া হবে (N, M); 1 ≤ N, M ≤ 40000.
+
+Output Specification (আউটপুটের বিবরণ)
+
+Output will have only one integer. It will indicate the minimum number of tiles you need to cover the floor.
+
+আউটপুটে একটি পূর্ণসংখ্যা প্রিন্ট করবে। যা নির্দেশ করবে ফ্লোরটি সম্পূর্ণ ঢাকতে সর্বনিম্ন কতগুলো টাইল লাগবে তার সংখ্যা।
+
+Samples
+Input	Output
+4 5	20
+Input	Output
+10 20	2
+
+You are given an array of size N. Initially, all the numbers of the array are zero. Now you will be given U updates. For each update, you will be given two integers L and X. This means that you have to add X to each number of the array starting from the index L till the last index. After all the U updates, you have to print the array.
+
+তোমাকে একটি অ্যারে দেয়া হবে যেখানে Nটি সংখ্যা থাকবে। শুরুতে অ্যারের সবগুলো সংখ্যা শূণ্য থাকবে। এখন তোমাকে Uটি আপডেট দেয়া হবে। প্রতিটি আপডেটের জন্য তোমাকে দুইটি সংখ্যা, L এবং X দেয়া হবে। এর অর্থ হচ্ছে তোমাকে অ্যারেটির Lতম সংখ্যা থেকে শেষ সংখ্যা পর্যন্ত সবগুলি সংখ্যার সাথে X যোগ করতে হবে। সবগুলি আপডেট শেষে তোমাকে অ্যারেটি প্রিন্ট করতে হবে।
+
+Input Specification (ইনপুটের বিবরণ)
+
+In the first line of the input, two integers N and U will be given. Then U lines will follow, one for each update. In these lines, two integers L and X will be given.
+
+ইনপুটের প্রথম লাইনে, দুইটি পূর্ণসংখ্যা N এবং U দেয়া হবে। এরপরে প্রতিটি আপডেটের জন্য একটি করে সর্বমোট Uটি লাইন থাকবে। প্রতিটি লাইনে দুইটি পূর্ণসংখ্যা L এবং X দেয়া হবে।
+
+Output Specification (আউটপুটের বিবরণ)
+
+Print N space-separated integers in one line. The i-th number should equal the value of the i-th number of the array.
+
+তোমাকে N টি সংখ্যা প্রিন্ট করতে হবে। তোমার প্রিন্ট করা i তম সংখ্যাটি হতে হবে অ্যারের i তম সংখ্যাটির সমান।
+
+Constraints (সীমা)
+
+For subtask 1 (40 Points):
+
+1<= N <= 5000
+
+1<= Q <= 5000
+
+1<= L <= N
+
+1<= X <= 100
+
+For subtask 2 (60 Points):
+
+1<= N <= 500000
+
+1<= Q <= 500000
+
+1<= L <= N
+
+1<= X <= 100
+
+Sample
+Input	Output
+5 4
+3 2
+2 10
+4 1
+2 3
+	0 13 15 16 16 
+
+Explanation:
+
+Before the first update the array looks like this:
+
+0 0 0 0 0
+
+After the first update:
+
+0 0 2 2 2
+
+After the second update:
+
+0 10 12 12 12
+
+After the third update:
+
+0 10 12 13 13
+
+After the fourth update:
+
+0 13 15 16 16
+
+প্রথম আপডেটের পূর্বে অ্যারেটি দেখতে এমন ছিলঃ
+
+0 0 0 0 0
+
+প্রথম আপডেটের পরঃ
+
+0 0 2 2 2
+
+দ্বিতীয় আপডেটের পরঃ
+
+0 10 12 12 12
+
+তৃতীয় আপডেটের পর:
+
+0 10 12 13 13
+
+চতুর্থ আপডেটের পরঃ
+
+0 13 15 16 16
+10/20/20, 1:19 PM
+Tahmid
+Tahmid Salam Swochso
+10/20/20, 3:13 PM
+You sent
+#carat symbol(^) for center the text in the fields
+print("{0:*^11s}".format("abods"))
+#example of formating inside loop
+for i in range (10):
+       print("{}{}{}". format(i,i**2,i**3))
+#1. split
+s="Mahafuj Al Mahabub Rahul"
+i=s.split(" ")
+print(i)
+#2. join
+o=["Mahafuj", "Al", "Mahabub", "Rahul"]
+s=" ".join(o)
+print(s)
+#3. count
+L=[1,2,3,4,5,6,4,5,4,8,7]
+print(L.count(4))
+#4. Replace
+a=("today is complet python class")
+t=a.replace('is','was')
+print(t)
+10/21/20, 12:53 PM
+You sent
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+You sent
+#loop
+#while
+#do while
+#for loop
+
+def ap(a,b,c):
+    while(a<=1):
+            print(a)
+            a=a+b
+a=int(input("enter 1st term of an Ap"))
+b=int(input("enter defference b/w two terms of an Ap : "))
+n=int(input("ebter no of terms of an Ap"))
+c=(a+(n*b)-b)
+print(c)
+print(ap(a,b,c))
+You sent
+#nesting
+#list containing dictionaries
+user_1={
+    'name':' rahul','age ':'30'
+    }
+user_2={
+    'name':' rahat','age ':'16'
+    }
+users=[user_1,user_2]
+for i in users:
+    for u,n in i.items():
+        print('\n'+"user's "+str(u)+str(n))
+You sent
+#nesting
+#list containing dictionaries
+fav_movies= {
+    'rahul'🙁'titanic','avangers','iron man'],
+    'rahat'🙁'dhoom 2', 'plays','spiderman']
+    }
+for i,j in fav_movies.items():
+    print('\n'+str(i)+" is fav_movies are ")
+    for names in j:
+        print('\t'+str(names))
+You sent
+10/21/20, 1:33 PM
+Tahmid
+Tahmid Salam Swochso
+x=int(input("enter num:"))
+y=int(input("enter 2 nd num:"))
+z=int(input("enter 3 num: "))
+if x>y>z:
+       num=z
+elif y>z>x:
+       num=x
+else:
+       num=y
+while True:
+       if x%num==0 and y%num==0 and z%num==0:
+              print("hcf: ",num)
+              break
+       else:
+              num=num-1
+print(num)
+10/21/20, 1:51 PM
+Tahmid
+??
+Tahmid
+😭
+Tahmid
+Tahmid Salam Swochso
+😭
+10/22/20, 12:06 PM
+You sent
+Class off
+Tahmid
+Tahmid Salam Swochso
+10/24/20, 12:00 PM
+Tahmid
+Tahmid Salam Swochso
+while True:
+	x=input("id: ")
+	if x!="t":
+		print("retry")
+		continue
+	else:
+		while True:
+			b=0
+			b=b+1
+			y=input("pass: ")
+			if y=="g":
+				print("welcome")
+				break
+			elif b%3==0:
+	continue
+		    else:
+		    	continue
+You sent
+Ha sir
+10/24/20, 1:03 PM
+Tahmid
+Tahmid
+Tahmid
+Tahmid
+Tahmid
+Tahmid Salam Swochso
+10/25/20, 4:36 PM
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+10/25/20, 10:19 PM
+You sent
+বাবু কাল কি সকাল ৯ টায় আসা যাবে
+10/25/20, 10:38 PM
+Tahmid
+Tahmid Salam Swochso
+You sent
+পারবা
+You sent
+আসতে
+10/26/20, 11:42 AM
+Tahmid
+Sir akhon aslam
+Tahmid
+Sir monai chilo na!!!!!
+Tahmid
+Tahmid Salam Swochso
+10/26/20, 8:08 PM
+You sent
+10/27/20, 7:30 AM
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+You sent
+last class of this exam
+You sent
+You sent
+You sent
+You sent
+You unsent a message
+You sent
+You sent
+You sent
+10/27/20, 10:44 PM
+You sent
+10/29/20, 9:22 AM
+You sent
+যদি পরপর কিছু দিনের সর্বোচ্চ তাপমাত্রা এমন হয় যেন প্রতিটি দিনের সর্বোচ্চ তাপমাত্রা তার আগের দিনের সর্বোচ্চ তাপমাত্রার সমান বা বেশি হয় এবং এই ধারাটিকে আর বড় করা সম্ভব না হয়, তাহলে প্রফেসর K এটিকে তাপদাহ হিসেবে অভিহিত করেন। কোন তাপদাহ যত দিন ব্যাপি চলে, তাকে তাপদাহটির দৈর্ঘ্য বলা হয়। তোমাকে পরপর কিছু দিনের সর্বোচ্চ তাপমাত্রার ডাটা সরবরাহ করা হবে। তা থেকে তোমাকে সর্বোচ্চ দৈর্ঘ্যের তাপদাহটি বের করতে হবে। একটি তাপদাহ সর্বোচ্চ দৈর্ঘ্যের হবে, যদি এটির দৈর্ঘ্য প্রদত্ত ডাটায় প্রাপ্ত সবগুলি তাপদাহের মধ্যে সর্বোচ্চ হয়।
+
+উদাহরণস্বরূপ, তাপমাত্রার এই ডাটাটি বিবেচনা করিঃ 20 18 20 21 23 22 11. এখানে প্রথমে একটি একদিনের তাপদাহ {20} পাওয়া যায়, তারপরে একটি চার দৈর্ঘ্যের তাপদাহ {18 20 21 23} পাওয়া যায়, তারপরে একটি একদিনের তাপদাহ {22} এবং সর্বশেষে আরেকটি একদিনের তাপদাহ {11} পাওয়া যায়। লক্ষ্য কর যে {18 20} এটি কোন তাপদাহ নয়। কারণ যদিও এটি ক্রমবর্ধমান, কিন্তু এটিকে আরও বড় করা সম্ভব। এটির সাথে 21 এবং 23 যোগ করলে এটিকে আর বড় করা সম্ভব হবে না, ফলে {18 20 21 23} একটি তাপদাহ।
+
+
+Professor K has defined Heat Streak as a sequence of maximal successive days where the daily maximum temperature either increased or remained the same from one day to the next. The total number of days in such a sequence is called the length of the Heat Streak. You are given the maximum temperature data of several days. You need to find the length of the Maximum Heat Streak. A Heat Streak is called Maximum Heat Streak if its length is maximum among all the Heat Streaks observed in the given data.
+
+For example, consider the temperature data: 20 18 20 21 23 22 11. Here we find a 1 day heat streak {20}, followed by a 4 day heat streak {18 20 21 23}, followed by a 1 day heat streak {22}, and then another 1 day heat streak {11}. Note that the sequence {18 20} is not a heat streak. This is because the sequence is increasing, but it is not maximal. We can further add 21 and 23 to the sequence to make it maximal.
+
+
+ইনপুটের বর্ণনা
+ইনপুটের প্রথম লাইনে টেস্টকেসের সংখ্যা T দেওয়া থাকবে। প্রতিটি টেস্টকেস একটি লাইনে বর্ণনা করা হবে। প্রতিটি লাইনের শুরুতে একটি পূর্ণসংখ্যা n দেওয়া থাকবে, যা নির্দেশ করে কতদিনের তাপমাত্রার ডাটা সরবরাহ করা হবে। এর পরে n টি পূর্ণসংখ্যা থাকবে, যা পরপর n দিনের সর্বোচ্চ তাপমাত্রা প্রকাশ করে। তাপমাত্রাগুলি 1 হতে 60 এর মধ্যে হবে। পূর্ণসংখ্যাগুলি একটি স্পেস দিয়ে আলাদা করা থাকবে।
+
+
+Input
+First line of the input contains T, the number of test cases. Each test case is specified in a single line. The line contains an integer n that represents the number of days for which temperature data is available. Then n integers follow, representing maximum temperature of each successive day. Each temperature will be in the range of 1 to 60. The numbers are separated from each other by a single space.
+
+
+অাউটপুটের বর্ণনা
+প্রতিটি টেস্টকেসের জন্য একটি লাইনে সর্বোচ্চ তাপদাহের দৈর্ঘ্য আউটপুট দিতে হবে।
+
+
+Output
+For each test case output in a single line the length of the Maximum Heat Streak.
+
+
+Limit
+1 <= T <= 20
+
+1 <= n <= 104
+
+
+Sample
+Input	Output
+2
+5 30 29 28 27 26
+7 20 18 20 21 23 22 11
+You sent
+আবদুল্লাহ বাংলাদেশের একজন ছোট্ট অভিযাত্রী। সে একাই ধূধূ মরুভূমিতে তার জিপিএস এবং রেডিও নিয়ে যাত্রা করছে। সে বেসক্যাম্পের সাথে নিয়মিত যোগাযোগ রাখে, যাতে বড়রা তার অবস্থান এবং নিরাপত্তা নিয়ে চিন্তিত না হয়।
+
+হঠাৎ আবদুল্লাহ আবিষ্কার করল যে তার জিপিএস আর রেডিও কোনটাই কাজ করছে না। শেষ যেখানে জিপিএস ঠিকমত কাজ করেছিল আবদুল্লাহ সেই অবস্থানটি জানে, কিন্তু সে তার বর্তমান অবস্থান জানে না। তার অবস্থান XY তলের একটি বিন্দু হিসেবে প্রকাশ করা যায়, যেখানে X অক্ষ পশ্চিম হতে পূর্ব দিকে এবং Y অক্ষ দক্ষিণ হতে উত্তর দিকে। আবদুল্লাহ এটাও জানে যে সে কোন দিকে কত মাইল যাত্রা করেছিল। সে শুধুমাত্র উত্তর, দক্ষিণ, পূর্ব এবং পশ্চিম দিকে যাত্রা করেছিল।
+
+হঠাৎ তার রেডিও কাজ করা শুরু করল এবং সে তৎক্ষণাৎ তার সর্বশেষ জানা অবস্থান এবং তার পর থেকে সে কোন দিকে কতটুকু গিয়েছিল তা রেডিওর সাহায্যে বেসক্যাম্পে প্রেরণ করল। বেসক্যাম্পের লোকেরা কি পারবে আবদুল্লাহর বর্তমান অবস্থান চিহ্নিত করতে?
+
+
+Abdullah is a young explorer from Bangladesh. He has traveled to the Never Never Land to explore the vast deserts there. Equipped with his GPS and radio transmitter, he is travelling through the deserts all by himself. He keeps regular contact with the Base Camp, so that the Elders are aware of his location and his safety.
+
+Suddenly, Abdullah finds his GPS is not working! And as luck would have it, his radio transmissions are also failing. Wandering in the desert, he no longer knows his current position. However, he remembered his last known position. The position can be represented as a point in a 2 dimensional XY plane, where the x axis runs from West to East and y axis from South to North. He also kept track of the directions he traveled and for how many miles. He only traveled along North, South, East and West.
+
+All on a sudden, his radio starts working and he immediately transmits his last known position and the sequence of moves he made thereafter. Can the people in the Base Camp identify his current location?
+
+
+ইনপুটের বর্ণনা
+ইনপুটের প্রথম লাইনে টেস্টকেসের সংখ্যা T দেওয়া থাকবে। প্রতিটি টেস্টকেসের প্রথম লাইনে স্পেস দিয়ে আলাদা করাদুইটি পূর্ণসংখ্যা X এবং Y দেওয়া থাকবে, যা আবদুল্লাহর সর্বশেষ জানা অবস্থান নির্দেশ করে। পরবর্তী লাইনে একটি স্ট্রিং দ্বারা সে কোন দিকে কতটুকু গিয়েছিল তা দেওয়া থাকবে। সরণের সংখ্যা হবে 1 হতে 10000 এর মধ্যে। তার প্রতিটি সরণ দুইটি বর্ণ দিয়ে প্রকাশ করা হবে। প্রথম বর্ণটি হবে N, S, E অথবা W, যা নির্দেশ করে সরণের দিক। পরের বর্ণটি হবে 0 হতে 9 এর মধ্যে, যা সে কত মাইল গিয়েছিল তা প্রকাশ করে।
+
+
+Input
+The first line of the input contains T, the number of test cases . The first line of each test case contains 2 space separated integers x, y, representing Abdullah’s last known position. Next line contains a string representing his subsequent moves. There can be at least 1 move and at most 10000 moves. Each move is represented by 2 letters. The first letter is either of N, S, E, W representing the direction he traveled. The next letter is between 0 and 9. It represents the number of miles he traveled in that direction. The subsequent test case starts in the next line.
+
+
+অাউটপুটের বর্ণনা
+প্রতিটি টেস্টকেসের জন্য একটি লাইনে স্পেস দিয়ে আলাদা করা দুইটি পূর্ণসংখ্যা X এবং Y আউটপুট দিতে হবে, যা আবদুল্লাহর বর্তমান অবস্থানের স্থানাংকদ্বয় নির্দেশ করে।
+
+
+Output
+For each test case output 2 space separated integers representing the x and y coordinates of Abdullah’s current position.
+
+
+Limit
+1 <= T <= 10
+
+0 <= x, y <= 1000
+
+
+Sample
+Input	Output
+2
+2 2
+N9W2N3W5S9E2S6
+3 5
+E9S9E5S2W4N9W3S7	-3 -1
+10 -4
+You sent
+তুমি বাইটল্যান্ড নামের এক জায়গার এক বিশাল কোম্পানি তে চাকরি কর। এখানে তোমার কাজ হল বাকিদের কাজের সূচি নিয়ন্ত্রণ করা। বাইটল্যন্ড এর এক বছর হয় ১০০০,০০০,০০০ দিনে। এবং তাদের কোন মাস বা সপ্তাহ নেই, শুধু দিন আছে। দিনগুলো ১ থেকে শুরু হয়। এখন তোমাকে বাকি কর্মচারীদের কাজের দিনগুলো দেয়া আছে। প্রত্যেকের জন্য তার কাজ কবে শুরু হবে এবং কবে শেষ হবে তা দেয়া হবে। কাজের সুচি এমনভাবে করা যেন ২ জন কর্মচারী কখনো একই দিনে কাজ না করে।
+
+তোমার কোম্পানি তে একজন পরিদর্শক আসবেন। তিনি এসে তোমার কাজের পরিদর্শন করবেন এবং তোমাকে কিছু প্রশ্ন জিজ্ঞেস করবেন। প্রতিটি প্রশ্নের জন্য তিনি তোমাকে একটি দিন বলবেন এবং তোমাকে উত্তর দিতে হবে যে ওইদিন আদৌ কেউ কাজ করছে কিনা। তাই তোমাকে এখন একটা প্রোগ্রাম লিখতে হবে যেন সেটি তোমাকে সঠিকভাবে সব প্রশ্নের উত্তর বলে দিতে পারবে।
+
+You now work in a big company in Byteland. Your company hires people to do some job. You are in charge of the scheduling of workers. Each worker has given you the start and end date of their job. Byteland uses a very weird calender system which only contains days and each year consists of 1000000000 days(it has no months or weeks). The days are numbered starting from 1. Now coincidentally no two workers work on the same day(their time of work don't overlap).
+
+The Bytelandian inspector is arriving soon and he will ask you several questions. In each question he will ask you a date and you will have to tell him if there is any worker working on that day. If you fail you may lose your job so I suggests you better get on to writing a program that can answer the queries for you.
+
+
+ইনপুটের বর্ণনা
+প্রথমে একটি সংখ্যা দেয়া থাকবে N। এরপরে N লাইন এর প্রতিটি তে ২টি করে সংখ্যা থাকবে যা হবে কোন কর্মচারীর কাজ শুরুর ও শেষের দিনের নম্বর। এরপরে থাকবে একটি সংখ্যা Q। যা হল তোমকে যে কয়টি প্রশ্ন করা হবে তার সংখ্যা। এরপরে Q টি লাইন এ একটি করে দিন দেয়া থাকবে।
+
+
+Input Specification
+The first line of the input contains an integer N(the number of workers, 1<=N<=100000). The next N lines each contain two integers, the start and end day of the worker. The next line will contain an integer Q(the number of questions asked, 1 <= Q <= 100000). The next Q lines each contain an integer, the date of the question. The schedule will be valid.
+
+
+আউটপুটের বর্ণনা
+তোমাকে প্রতিটি প্রশ্নের জন্য তার উত্তর ক্রমানুসারে লিখতে হবে। যদি প্রশ্নের উত্তর হ্যা হয় তবে আউটপুট দিবে "YES" অন্যথায় "NO".
+
+
+Output Specification
+Print Q lines, each contain either “YES”, if there is a worker working on that corresponding day, or “NO” if there is no worker on that day.
+
+ 	SUBTASK-1	SUBTASK-2	SUBTASK-3
+CONSTRAINTS	1 <= N <= 100
+1 <= Q <= 100	1 <= N <= 100000,
+1 <= Q <= 100000,
+Every value is at most
+1000000	1 <= N <= 100000
+1 <= Q <= 100000
+POINT	20	20	60
+
+Sample
+Input	Output
+3 
+1 5 
+10 20 
+30 100 
+2 
+15 
+25	YES 
+NO
+You sent
+X এবং P দেয়া থাকলে নিচের যোগফলের সর্বশেষ (সর্বডানের) অঙ্ক কি হবে?
+
+Given X and P, what is the last (Rightmost or Least Significant) digit of the following sum?
+
+X0 + X1 + X2 + X3 + ……. + XP-1 + XP
+
+
+ইনপুটের বর্ণনা
+শুধু একটি লাইন, space দ্বারা পৃথক করা X এবং P এর মান।
+
+
+Input Specification
+Just one line, space separated values of X and P.
+
+For 30% cases 1<=X<=9 and 1<=P<=10
+
+For 30% cases 1<=X<=999 and 1<=P<=100000
+
+For 40% cases 1<=X<=999999 and 1<=P<=10^15
+
+
+আউটপুটের বর্ণনা
+শুধু একটি লাইন, যোগফলের সর্বশেষ (সর্বডানের) অঙ্ক
+
+
+Output Specification
+Just one line, the result.
+
+
+Samples
+Input	Output
+1 5	6
+Input	Output
+2 6
+7
+Input	Output
+3 7
+0
+Input	Output
+4 8
+1
+You sent
+ক টি, যেখানে ক একটি ধনাত্মক পূর্ণ সংখ্যা, দ্বিমাত্রিক ক্ষেত্রে অবস্থিত বিন্দুর কার্তেসীয় স্থানাংক দেয়া আছে। একটি কার্যপদ্ধতি লেখো যেটি এমন ক্ষুদ্রতম আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয় করবে, যেই আয়তক্ষেত্রটি সকল প্রদেয় বিন্দুসমূহকে ধারণ করে।
+
+Given the Cartesian coordinates of n (> 0) 2-dimensional points, write a program that computes the area of their smallest bounding rectangle (smallest rectangle containing all the given points).
+
+
+ইনপুটের বর্ণনা
+ইনপুট নথিতে(file) এক বা একাধিক ঘটনাকল্প(case) থাকবে। প্রতিটি ঘটনাকল্পের শুরুতে একটি লাইনে কেবল মাত্র একটি ধনাত্মক সংখ্যা ক থাকবে, ক < ১০০১ এবং ক হচ্ছে প্রদত্ত ঘটনাকল্পের বিন্দুসংখ্যা। পরবর্তী ক টি লাইনের প্রতিটিতে দু'টি করে বাস্তব সংখ্যা থাকবে, যেখানে প্রথমটি বিন্দুটির X অক্ষ এবং দ্বিতীয়টি Y অক্ষ প্রকাশ করে। এমন একটি ঘটনাকল্প যেখানে ক = ০ পেলে সমাধান বন্ধ করতে হবে। লক্ষ্যনীয় যে, ক = ০ হলে ঐ ঘটনাকল্পটিকেও সমাধান করা যাবে না।
+
+
+Input Specification
+The input file may contain multiple test cases. Each test case begins with a line containing a positive integer n (< 1001) indicating the number of points in this test case. Then follows n lines each containing two real numbers giving respectively the x- and y-coordinates of a point. The input terminates with a test case containing a value 0 for n which must not be processed.
+
+
+আউটপুট এর বর্ণনা
+ইনপুটের প্রতিটি ঘটনাকল্পের জন্য একটি লাইনে ক্ষুদ্রতম আবদ্ধকারী আয়তক্ষেত্রের ক্ষেত্রফলকে দশমিকের পর চার ঘর পর্যন্ত মুদ্রণ করতে হবে।
+s
+
+Output Specification
+For each test case in the input print a line containing the area of the smallest bounding rectangle rounded to the 4th digit after the decimal point.
+
+
+Sample
+Input	Output
+3
+-3.000 5.000
+7.000 9.000
+17.000 5.000
+4
+10.000 10.000
+10.000 20.000
+20.000 20.000
+20.000 10.000
+0 	80.0000
+100.0
+You sent
+বাঘা যোদ্ধা হাসমত, এখানে ওখানে ঘুরে বেরায় আর শত্রুর সাথে যুদ্ধ করে। যুদ্ধ শুরুর আগে সে শুধু নিজের এবং প্রতিপক্ষের যোদ্ধার সংখ্যার পার্থক্যই বের করে এই পার্থক্য দেখে সে যুদ্ধ করা বা না করার সিদ্ধান্ত গ্রহণ করে। হাসমত এর যোদ্ধার সংখ্যা কখনোই প্রতিপক্ষ থেকে বেশি হয় না।
+
+Hashmat is a brave warrior who with his group of young soldiers moves from one place to another to fight against his opponents. Before fighting he just calculates one thing, the difference between his soldier number and the opponent's soldier number. From this difference he decides whether to fight or not. Hashmat's soldier number is never greater than his opponent.
+
+
+ইনপুটের বর্ণনা
+ইনপুট ফাইল এর প্রতি লাইন এ দুটি সংখ্যা থাকে। এই দুটি সংখ্যা যথাক্রমে হাসমত ও তার প্রতিপক্ষের যোদ্ধার সংখ্যা অথবা তদ্বিপরীত। ইনপুটের কোনো সংখ্যাই ২৬৪ থেকে বড় নয়। EOF দিয়ে ইনপুটের শেষ হয়।
+
+
+Input Specification
+The input file contains two integer numbers in every line. These two numbers in each line denotes the number of soldiers in Hashmat's army and his opponent's army or vice versa. The input numbers are not greater than 2^64. Input is terminated by End of File.
+
+
+আউটপুট এর বর্ণনা
+প্রতি লাইন ইনপুটের জন্য হাসমত এবং তার প্রতিপক্ষের যোদ্ধার সংখ্যার পার্থক্য মুদ্রণ করতে হবে। প্রতিটি লাইনের জন্য আউটপুট আলাদা আলাদা লাইনেই দিতে হবে।
+
+
+Output Specification
+For each line of input, print the difference of number of soldiers between Hashmat's army and his opponent's army. Each output should be in separate line.
+
+
+Sample
+Input	Output
+10 12
+10 14
+100 200	2
+4
+100
+Tahmid
+Tahmid Salam Swochso
+10/29/20, 3:53 PM
+Tahmid replied to you
+Tahmid Salam Swochso
+Sir ar output kunta
+10/29/20, 6:27 PM
+You sent
+10/29/20, 9:09 PM
+Tahmid
+Tahmid Salam Swochso
+x=[]
+y=[]
+
+x1=int(input("x:"))
+x.append(x1)
+y1=int(input('y:'))
+y.append(y1)
+
+di=input("enter dir: ")
+for i in range(len(di)):
+    if di[i]=='N':
+        x.append(-int(di[i+1]))
+    elif di[i]=='S':
+        x.append(int(di[i+1]))
+    elif di[i]=='E':
+        y.append(-int(di[i+1]))
+    elif di[i]=='W':
+        y.append(int(di[i+1]))
+x2=sum(x)
+y2=sum(y)
+if sum(x)<0:
+    x_='N'
+    x2=x2*-1
+elif sum(x)>0:
+    x_="S"
+if sum(y)<0:
+    y2=y2*-1
+    y_='E'
+elif sum(y):
+    y_="W"
+print("direction is :{}={} {}={}".format(x_,x2,y_,y2))
+You sent
+10/30/20, 8:23 PM
+Tahmid forwarded an image
+Tahmid Salam Swochso
+10/31/20, 12:23 PM
+Tahmid
+Tahmid Salam Swochso
+11/2/20, 12:31 AM
+You sent
+You sent
+You sent
+11/4/20, 7:40 PM
+You sent
+হায়
+11/8/20, 9:37 PM
+You sent
+Tumi koi asla
+12/28/20, 4:23 PM
+You sent
+1/4/21, 1:14 PM
+You sent
+
+You waved at Tahmid!
+Waiting for Tahmid...
+1/4/21, 3:34 PM
+Tahmid
+Tahmid Salam Swochso
+Hi sir
+2/14/21, 8:25 PM
+Tahmid
+Tahmid Salam Swochso
+2/25/21, 10:47 PM
+Tahmid
+Tahmid Salam Swochso
+3/27/21, 6:03 PM
+Tahmid
+Tahmid Salam Swochso
+Sir project ar ki khobor
+4/9/21, 5:49 PM
+Tahmid
+Tahmid Salam Swochso
+4/10/21, 3:34 PM
+Tahmid
+Tahmid Salam Swochso
+4/15/21, 12:07 PM
+You sent
+https://meet.google.com/ytc-mrgw-yxi
+আজ ১৫-০৪-২০২১ ইং তারিখে  দুপুর ২.৩০ সিনিট  গুগোল মিটিং এর সাহায়্যে পাইথন প্রোগ্রামিং এর উদ্বোধন অনুষ্ঠান শুরু হবে। 
+সকলকে থারার জন্য অনুরোধ করা হচ্ছে।
+Meet
+5/19/21, 4:02 PM
+Tahmid replied to your story
+Tahmid Salam Swochso
+Sir amader janalan na
+9/26/21, 10:18 AM
+You sent
+চলো Freelancing শিখি নিজের কর্মসংস্থান নিজে গড়ি। দিনাজপুর জেলায় এই প্রথম ITIBD ও Sell Discovery উদ্যেগে Freelancing বিষয়ে প্রশিক্ষণ ও প্রতিযোগিতার আয়োজন করা হয়েছে। 
+কোর্সের সময়সীমাঃ ৮ সপ্তাহ
+প্রশিক্ষণেন বিষয়ঃ Web design, Graphic design, Digital Marketion 
+আসন সংখ্যাঃ ৫০ জন
+প্রশিক্ষণে ফিঃ ৩৫০০/-
+রেজিস্ট্রেশন লিংক: shorturl.at/hEHRV
+রেজিস্ট্রেশনের শেষ তারিখঃ ০৯/১০/২০২১ ইং
+উদ্বোধনী ক্লাশঃ ১০/১০/২০২১ ইং
+প্রশিক্ষণে থাকছে কেরিয়র গাইডলাই, সার্টিফিকেট প্রদান, সেরা ৩জনকে Freelancing কোম্পানীতে কাজ করার সুযোগ।
+
+ বিস্তারিত তথ্যের জন্য যোগাযোগ করুনঃ 01973126420, 01750917291
+
+Information Technology of ITIBD
+10/28/21, 12:23 PM
+You sent
+UNIBATOR is inviting you to a scheduled Zoom meeting.
+
+Topic: "UNIBATOR" Top-250 Orientation Program
+Time: Oct 28, 2021 01:00 PM Astana, Dhaka
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/89521656952?pwd=RHJXdG8zRGgzbUlseEljN3pnKzFRdz09
+
+Meeting ID: 895 2165 6952
+Passcode: 586000
+One tap mobile
++13126266799,,89521656952#,,,,*586000# US (Chicago)
++13462487799,,89521656952#,,,,*586000# US (Houston)
+
+Dial by your location
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 205 6099 US (New York)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington DC)
+Meeting ID: 895 2165 6952
+Passcode: 586000
+Find your local number: https://us02web.zoom.us/u/kwqR1TLBR
+Join our Cloud HD Video Meeting
+us02web.zoom.us
+Join our Cloud HD Video Meeting
+12/10/21, 5:14 PM
+You sent
+12/11/21, 10:45 AM
+You sent
+babu
+You sent
+babu tomar number dao
+12/11/21, 12:14 PM
+You sent
+https://chrome.google.com/webstore/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden
+
+Screen Recorder
+12/11/21, 6:24 PM
+You sent
+আগামীকাল সকাল 9.30 মিনিটে চেহেলগাজী শিক্ষা নিকেতন স্কুল এন্ড কলেজে পাইথন বিষয় প্রশিক্ষন কর্যক্রম শুরু হবে।
+Mar 3, 2022, 11:31 AM
+You sent
+আজ ক্লাশ রাত 8.30 মিনিটে python শুরু হবে। উক্ত ক্লাস প্রশিক্ষকের দায়িত্ব পালন করবেন রাহাত আহামেদ।  সকল উপজেলার  সোহানা আক্তার, নুর ইসলাম বাদে সকল ল্যাব কো-অর্ডিনেটরদের ক্লাশে  উপস্থিত হওয়ার জন্য অনুরোধ করা হচ্ছে।https://meet.google.com/ytc-mrgw-yxi
+Meet
+Write to Tahmid Salam Swochso
