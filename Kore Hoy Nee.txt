@@ -1,0 +1,973 @@
+a=0
+c=int(input("first num: "))
+d=int(input("enter last num: "))
+
+for i in range(c,d+1):
+    print(i)
+    a=a+i**2
+print("sum"+str(a))
+.............................
+procedure
+def sum (a,b):
+    return (a+b)
+print (sum(3,23))
+.....................
+search=("I like to play target and i am learning target")
+def position2(search,target):
+    frist= (search.find(target))
+    return (search.find(target,+1))
+x=(" I like to play guiter and i am learning guiter")
+print(position2(x,"guiter"))
+.....................
+
+def print_number(x):
+    i=1
+    while(i<=x):
+        print (i)
+        i=i+1
+print(print_number(25))
+..........................
+def quabe(a):
+    return a*a*a
+x=input("enter a new number")
+y=(quabe(int(x)))
+print("quabe of number is " +str(y))
+.............................
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+............................
+def ap(a,b,c):
+    while(a<=1):
+            print(a)
+            a=a+b
+a=int(input("enter 1st term of an Ap"))
+b=int(input("enter defference b/w two terms of an Ap : "))
+n=int(input("ebter no of terms of an Ap"))
+c=(a+(n*b)-b)
+print(c)
+print(ap(a,b,c))
+
+.......................
+a=int(input("1 num: "))
+b=int(input("2 num: "))
+if a>b:
+	l=a
+else:
+	l=b
+while(1):
+	if l%a==0 and l%b==0:
+	   print("LCM",l)
+	   break
+    l=l+1
+.....................
+result=1
+def fac(x):
+    a=0
+    while x!=1:
+    	x=x-1
+    	result=result*x
+    return result
+x=int(input("factorial"))    
+g=fac(x)  	
+print(result)
+..........................
+import math
+
+def GCD(x,y):
+	if x>y:
+		small=x
+	else:
+		small=y
+	for i in range(1,small+1):
+		if((x%i==0)and(y%i==0)):
+			
+					GCD = i
+	return GCD
+	
+n=int(input())
+m=int(input())
+t=GCD(n,m)
+p=int(input())
+print(GCD(t,p))
+..............................
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+
+..........................
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+
+..............................
+x=int(input())
+y=int(input())
+z=int(input())
+if x>y:
+       num=x
+else:
+       num=y
+while True:
+       if num%x==0 and num%y==0:
+              print("LCM 0f 2",num)
+              continue
+       num=num+1
+while True:
+       if num%z==0:
+              print("lcm of 3",num)
+              break
+       num=num+1
+.....................
+x= int(input())
+a=int(0)
+i=int(1)
+while i<=x:
+    a=a+(i*i)
+    i+=1
+
+
+print(a)
+........................
+একটি প্রোগ্রাম লিখ যেটি একটি সংখ্যা ইনপুট নিবে এবং 1 থেকে শুরু করে ঐ সংখ্যা পর্যন্ত যতগুলো সংখ্যা আছে তাদের বর্গের যোগফল প্রিন্ট কর।
+Sample Input 1 
+
+x = input() #5
+
+
+Output for Sample 1 is 55 (12+22+32+42+52
+...........................
+a=int(input())
+if a%4==0 and a%100!=0:
+	print("1")
+elif a%400==0:
+	print("1")
+else:
+	print("2")
+....................................
+c=[]
+for i in range(1,100):
+	x=(input("enter"))
+	c.append(x)
+	c.sort()
+	if x=="s":
+		break
+
+print(c[0])
+..................................
+x=int(input("1st "))
+y=int(input("2nd "))
+z=int(input("3rd "))
+num=x
+while True:
+	if num%x==0 and num%y==0:
+		if num%z==0:
+			print("LCM",num)
+			break
+	num=num+1
+......................
+x=int(input())
+y=int(input())
+z=int(input())
+if x<y and y<z:
+	print(x)
+if x<z and z<y:
+	print(x)	
+if z<y and y<x:
+	print(z)
+if z<x and x<y:
+	print(z)	
+if y<z and z<x:
+	print(y)
+if y<x and x<z:
+	print(y)
+else:
+    print("not working")
+..............................
+a=[]
+p=float(2.00)
+q=float(3.00)
+r=float(3.50)
+s=float(4.00)
+t=float(5.00)
+u=int()
+v=float(0.00)
+def cheak_marks(marks,sub):
+    if(marks<=0):
+        print("{} mark is invalid\n".format(sub))
+    elif(marks<40):
+        print("{}\tF\n".format(sub))
+        a.append(v)
+        u.append(0)
+    elif(marks<=49):
+        print("{}\tC\n".format(sub))
+        a.append(p)
+    elif(marks<=59):
+        print("{}\tB\n".format(sub))
+        a.append(q)
+    elif(marks<=69):
+        print("{}\tA-\n".format(sub))
+        a.append(r)
+    elif(marks<=79):
+        print("{}\tA\n".format(sub))
+        a.append(s)
+    elif(marks<=100):
+        print("{}\tA+\n".format(sub))
+        a.append(t)
+    else:
+        print("{}\t invalid".format(sub))
+
+sub1='Bangla'
+sub2='English'
+sub3='Mathematics'
+sub4='Bangla 2nd'
+sub5='English 2nd'
+sub6='Religion'
+sub7='Social Science'
+sub8='Physics'
+sub9='Chemistry'
+sub10='Biology'
+ban=int(input("Enter mark in {} ".format(sub1)))
+eng=int(input("Enter mark in {} ".format(sub2)))
+math=int(input("Enter mark in {} ".format(sub3)))
+ban2=int(input("Enter mark in {} ".format(sub4)))
+eng2=int(input("Enter mark in {} ".format(sub5)))
+rel=int(input("Enter mark in {} ".format(sub6)))
+sosci=int(input("Enter mark in {} ".format(sub7)))
+phy=int(input("Enter mark in {} ".format(sub8)))
+che=int(input("Enter mark in {} ".format(sub9)))
+bio=int(input("Enter mark in {} ".format(sub10)))
+cheak_marks(ban,sub1)
+cheak_marks(eng,sub2)
+cheak_marks(math,sub3)
+cheak_marks(ban2,sub4)
+cheak_marks(eng2,sub5)
+cheak_marks(rel,sub6)
+cheak_marks(sosci,sub7)
+cheak_marks(phy,sub8)
+cheak_marks(che,sub9)
+cheak_marks(bio,sub10)
+def cheak_GPA():
+    i=0
+    b=10
+    x=float()
+
+    for i in range(b):
+        x=(x+a[i])
+
+    d=(x/b)
+    print("Your GPA without fail:{}".format(d))
+    if u==0:
+        d=d*u
+    print("Your Fail GPA is {}".format(d))
+    
+cheak_GPA()
+
+....................................
+# making a trianle using turtle with 3 arms
+#Creating a triangle
+import math
+import turtle
+A = 100
+B = 100
+C = 50
+a = math.acos((math.pow(A, 2) + math.pow(C, 2) - math.pow(B, 2)) / (2*A*C))
+b = math.acos((math.pow(A, 2) + math.pow(B, 2) - math.pow(C, 2)) / (2*B*A))
+a = 180 - math.degrees(a)
+b = 180 - math.degrees(b)
+t = turtle.Pen()
+t.forward(C)
+t.left(a)
+t.forward(A)
+t.left(b)
+t.forward(B)
+.............................
+#Calculating weight in moon
+
+import sys
+def moon_weight():
+    print('Please enter your current Earth weight')
+    weight = float(sys.stdin.readline())
+    print('Please enter the amount your weight might increase each year')
+    increase = float(sys.stdin.readline())
+    print('Please enter the number of years')
+    years = int(sys.stdin.readline())
+    years = years + 1
+    for year in range(1, years):
+        weight = weight + increase
+        moon_weight = weight * 0.165
+        print('Year %s is %s' % (year, moon_weight))
+moon_weight()
+
+...............................
+8. #making a list of number using range function
+x = int(input("enter a new number : "))
+y = int(input("enter a another number :"))
+print(list(range(x, y+1)))
+............................
+#Use to Modeul
+age = int(input("Enter your age :"))
+age2 = age + 1
+
+print("Your age is %d"%age)
+print("After one year your age will be %d"%age2)
+
+........................
+#use to Rhombus
+import turtle
+t = turtle.Pen()
+t.forward(120)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(120)
+t.left(90)
+t.forward(50)
+.......................
+#make to ruselt 
+sub1 = "Bangla"
+sub2 = "English"
+sub3 = "Mathematics"
+ban = int(input("Enter marks in {} :".format(sub1)))
+eng = int(input("Enter marks in {} :".format(sub2)))
+math = int(input("Enter marks in {} :".format(sub3)))
+
+def check_marks(sub, marks):
+    if marks < 0:
+        print("{}\tInvalid".format(sub))
+    elif marks < 33:
+        print("{}\tF".format(sub))
+    elif marks < 40:
+        print("{}\tD".format(sub))
+    elif marks < 50:
+        print("{}\tC".format(sub))
+    elif marks < 60:
+        print("{}\tB".format(sub))
+    elif marks < 70:
+        print("{}\tA-".format(sub))
+    elif marks < 80:
+        print("{}\tA".format(sub))
+    elif marks <= 100:
+        print("{}\tA+".format(sub))
+    else:
+        print("{}\tInvalid".format(sub))
+check_marks(sub1, ban)
+check_marks(sub2, eng)
+check_marks(sub3, math)
+
+.............................
+#How to make your Hard
+import turtle
+
+turtle.bgcolor("black")
+turtle.pensize(2)
+
+def curve():
+    for i in range(200):
+        turtle.right(1)
+        turtle.forward(1)
+turtle.speed(0)
+turtle.color("red","red")
+
+turtle.begin_fill()
+turtle.left(140)
+turtle.forward(111.65)
+curve()
+
+turtle.left(120)
+curve()
+turtle.forward(111.65)
+turtle.end_fill()
+turtle.hideturtle()
+
+...................................
+# How to use  3 arm 3 triangle 
+a = int(input("Enter the first value of a arm :"))
+b = int(input("Enter the second value of another arm :"))
+c = int(input("Enter the third valur of the last arm :"))
+x = int(input("Please enter a value of a triangle :"))
+y = int(input("Please enter another value of a triangle :"))
+z = int(input("Please enter the value of the last angle of the triangle :"))
+
+li = [a, b, c]
+for i in li:
+    arm1 = max(a, b, c)
+    arm3 = min(a, b, c)
+    if i != arm1 and i != arm3:
+        arm2 = i
+if arm2+arm3>arm1:
+    if x + y + z == 180:
+        print("Yes")
+    else:
+        print("No")
+else:
+    print("No")
+...................................
+# import turtle library
+import turtle             
+colors = [ "red","purple","blue","green","orange","yellow"]
+my_pen = turtle.Pen()
+turtle.bgcolor("black")
+for x in range(360):
+   my_pen.pencolor(colors[x % 6])
+   my_pen.width(x/100 + 1)
+   my_pen.forward(x)
+   my_pen.left(59)
+................................
+#Turtel input to Star
+from turtle import *
+color('red', 'yellow')
+begin_fill()
+while True:
+    forward(200)
+    left(170)
+    if abs(pos()) < 1:
+        break
+end_fill()
+done()
+..........................
+#Converting temperature in kalvin and farenheit from celcius
+C = float(input("Enter temperature in celcius :"))
+
+F = ((C*9)/5)+32
+K = C + 273
+
+print("This temperature in farenheit is {} and in kalvin is {}".format(F, K))
+.................................
+#counting so,e odd number
+x=int(input("please enter a starting number : "))
+y=int(input("please enter a finishing number : "))
+num = x
+while num !=y+1:
+    if num %2 != 0:
+        pr
+....................................
+def ap(a,l,d):
+    result=0
+    for i in range(a,l+1,d):
+        print(i)
+        result=result+i
+    return(result)
+a=int(input("first term :"))
+b=int(input("difference term :"))
+n=int(input("no of term :"))
+l=a+(n*d-d)
+print(ap(a,l,d))
+....................................
+def quabe(a):
+    return a*a*a
+x=input("enter a new number")
+y=(quabe(int(x)))
+print("quabe of number is " +str(y))
+..............................
+#decision control
+print("welcom this is number guesing game")
+a=int()
+for i in range(1,100):
+    
+    x=int(input("guess the number "))
+    if(x==4):
+        a=int()
+        print("your guess is right , great, you  win")
+    else:
+        a=a+1
+        if(x<4):
+            print("too low")
+        else:
+            print("to high")
+        print("you loose")
+    if(a%3==0):
+    	print("try again")
+
+................................
+#pop method
+fruits=["apple","mango","grapes"]
+x=fruits.pop()
+print(fruits)
+print(x)
+........................
+animals=['elephant', 'cow','dog','fox']
+x=animals.index('elephant')
+print(x)
+animals.reverse()
+print(animals)
+animals.sort()
+print(animals)
+animals.sort()
+print(animals)
+animals.sort(reverse=True)
+print(animals)
+
+..........................
+#sum of digits ......... ass- 1+2+3
+x=input('enter 3 digit number')
+print(int(x[0])+int(x[1])+int(x[2]))
+#x[i]loops while. result
+a=input('enter number')
+b=len(a)
+i=0
+result=0
+while(i<b):
+    result=result+int(x[i])
+    i=i+1
+print(result)
+.............................
+
+x=("Bangladesh")
+x=list(x)
+print(x)
+
+.................................
+#list in list
+#list fangction
+animals=[['cat','dog','cow'],'horse','monky','tiger']
+print(animals[0][1][0])
+
+...........................
+
+x=("Bangladesh")
+b=len(x)
+i=0
+while i<b:
+	print(x[i])
+	i=i+1
+
+....................
+x=("Bangladesh")
+d=x.find("d")
+print(x[:d-1]+  "   "  +x[d:])
+....................................
+x=("Bangladesh")
+space=" "
+d=x.find("d")
+print(x[:d-1]+space+x[d:])
+...........................
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player+'is very good players')
+.................................
+name=['sakib','musfik','tamim','mamudula','mostafijur']
+for player in name:
+    print(player.title())
+.....................
+#koto gulo items ar list banaithy hoby
+x=int(input('how many items you want to store in your list ?'))
+items=[]
+i=0
+while(i<x):
+    y=str(input("enter the item for your list"))
+    items.append(y)
+    i=i+1
+z=sorted(items)
+print(("your list in alphabetically order ")+str(z))
+print("you want to change any item in your list : yes/no ?")
+a=str(input())
+if(a=='yes'):
+    b=input("which item you want to change ")
+    c=z.index(b)
+    print(("ok which item you want to place of ")+str(b))
+    t=str(input())
+    z[c]=t
+    print("now your complete list is "+ str(z))
+if(a=='no'):
+    print("thank you")
+
+........................................
+import math
+store = []
+lower=int(2)
+upper=int(input())
+for num in range (lower, upper+1):
+ if num>1:
+  for i in range (2,num):
+   if num % i==0:
+    break
+  else: 
+    store.append(num)
+print(len(store))
+.........................
+x=[1,2,3,4,5,'one','two','three']#in word/ in opertor
+print(2 in x)
+............................
+
+x=[1,2,3,4,5,'one','two','three']#in word/ in opertor
+print(8 in x)
+
+..................
+#veriables
+broAge=18
+myAge=22
+number=2
+#we used to be like this
+print("my age is "+str(myAge))
+print("my age is {}". format(myAge))
+print("my age is {} and my brother age is {}". format(myAge,broAge))
+............................
+#2. Working with positions
+print("my age is {} years is {} month is {}days".format(1990,4,1))
+print("my age is {2} days is {1} month  is {0} years".format(1990,4,1))
+
+.....................
+#2. Working with positions
+print("my age is {} years is {} month is {}days".format(1990,4,1))
+print("my age is {2} days is {1} month  is {0} years".format(1990,4,1))
+.......................
+#3. Type conversion ( int to float )
+print("my age is {0:f}".format(myAge))
+print("my age is {0:.1f}".format(myAge))
+................
+#4. type conversion (double to float)
+print("my age is 3 but is {}".format(number/3))
+print("my age is 3 but is {0:f}".format(number/3))
+print("my age is 3 but is {0:.2f}".format(number/3))
+#5. spacing useing 'd'
+print("my age is {0:4d}".format(myAge
+....................
+#carat symbol(^) for center the text in the fields
+print("{0:*^11s}".format("abods"))
+#example of formating inside loop
+for i in range (10):
+       print("{}{}{}". format(i,i**2,i**3))
+#1. split
+s="Mahafuj Al Mahabub Rahul"
+i=s.split(" ")
+print(i)
+#2. join
+o=["Mahafuj", "Al", "Mahabub", "Rahul"]
+s=" ".join(o)
+print(s)
+#3. count
+L=[1,2,3,4,5,6,4,5,4,8,7]
+print(L.count(4))
+...............................
+#dictionaries#mappings
+#key
+d={'key1':"rahul",'key2':"asif",'key3':"rahath"}
+#items
+for i,e in d.items():
+    print(('key is ' +str(i))+(" and its value is "+str(e)))
+.............................
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahul",'hight':'3.6feet','age':22}
+if d==d3:
+    print("same")
+else:
+    print("diffarent")
+
+
+
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahat",'hight':'3.6feet','age':22}
+if d==d3:
+    print("same")
+else:
+    print("diffarent")
+
+..........................
+#dictionaries#mappings
+#key
+d={'name':"rahul",'age':22,'hight':'3.6feet'}
+d3={'name':"rahat",'hight':'3.6feet','age':22}
+for i in sorted (d.items()):
+    print(i)
+
+
+
+#dictionaries#mappings
+#key
+d={
+    'name':"rahul",
+    'age':22,
+    'hight':'3.6feet'
+    }
+for i in sorted (d.items()):
+    print(i)
+..............................
+c=[]
+sub1 = "bangla"
+sub2 = "English"
+sub3 = "mathmat"
+ban=int(input("Enter marks in{}:".format(sub1)))
+eng=int(input("enter marks in {}:".format(sub2)))
+math=int(input("enter marks in {}:".format(sub3)))
+
+def check(sub,marks):
+       if marks<0:
+              print("{}\tinvalid".format(sub))
+              c.append(0)
+       elif marks<33:
+              print("{}\tF".format(sub))
+              c.append(0)
+       elif marks<40:
+              print("{}\tD".format(sub))
+              c.append(1)
+       elif marks<50:
+              print("{}\tC".format(sub))
+              c.append(2)
+       elif marks<60:
+              print("{}\tB".format(sub))
+              c.append(3)
+       elif marks<70:
+              print("{}\tA-".format(sub))
+              c.append(3.5)
+       elif marks<80:
+              print("{}\tA".format(sub))
+              c.append(4)
+       elif marks<=100:
+              print("{}\t\tA+".format(sub))
+              c.append(5)
+       else:
+              print("khuch to goalmal hai")
+              
+              
+              
+check(sub1,ban)
+check(sub2,eng)
+check(sub3,math)
+def gpa():
+    b=int(3)#subject number
+    s=int()
+    for i in range(b):
+    	s=s+c[i]
+    f=s/b
+    print("your gpa is :{}".format(f))
+    return f
+    
+for i in c:
+    if i==0:
+        gpa=0
+        print(c)
+        print("your Gpa is 0.00")
+        break
+else:
+    gpa=gpa()
+    
+    	
+    
+    	
+             
+
+
+if gpa==0:
+       print("\tF")
+elif gpa<1:
+       print("\tD")
+elif gpa<2:
+       print("\tc")
+elif gpa<3:
+       print("\tB")
+elif gpa<3.5:
+       print("\tA-")
+elif gpa<4:
+       print("\tA")
+elif gpa<=5:
+       print("\tA+")
+...............................................
+def cheak_marks(sub,marks):
+               if marks<0:
+                      print("{}\tInvalid".format(sub))
+               elif marks<33:
+                   
+                   print("{}\tF".format(sub))
+               elif marks<40:
+                   
+                   print("{}\tD".format(sub))
+               elif marks<50:
+                   
+                   print("{}\tC".format(sub))
+               elif marks<60:
+                   
+                   print("{}\tB".format(sub))
+               elif marks<70:
+                   
+                   print("{}\tA-".format(sub))
+               elif marks<80:
+                   
+                   print("{}\tA".format(sub))
+               elif marks<=100:
+                   
+                   print("{}\tA+".format(sub))
+               else:
+                   
+                   print("{}\tInvalid".format(sub))
+def Point(a):
+    if a>=91 and a<=100:
+           g="GPA is A+ and Point is 5.00"
+       
+    elif a>=81 and a<=90:
+           g="GPA is A and Point is 4.50"
+    elif a>=71 and a<=80:
+           g="GPA is A- and Point is 4.00"
+    elif a>=61 and a<=70:
+           g="GPA is B and Point is 3.50"
+    elif a>=51 and a<=60:
+           g="GPA is C and Point is 3.00"
+    elif a>=41 and a<=50:
+           g="GPA is D and Point is 2.50"
+    elif a<=40:
+           g="GPA is D and Point is 2.00"
+    else:
+           g="GPA is F and Point is 0"
+    return g
+sub=['Bangla','English','Math','Science','B&G','Religion']
+marks=[]
+g=int()
+f=0
+
+
+names=str(input("Student name:"))
+for i in range(0,6):
+    b=int(input("Enter {} mark:\t".format(sub[i])))
+    marks.append(b)
+for i in range(0,6):
+    cheak_marks(sub[i],marks[i])
+    
+for i in range(1,33):
+    if (i in marks):
+        f=1
+if f==1:
+    print("\n{} GPA is {}".format(names,g))
+else:
+    b=int((sum(marks)/6))
+    print("\n{} {}".format(names,Point(b)))
+....................
+#carat symbol(^) for center the text in the fields
+print("{0:*^11s}".format("abods"))
+#example of formating inside loop
+for i in range (10):
+       print("{}{}{}". format(i,i**2,i**3))
+.....................
+def factorial(x):
+    result=1
+    while(x>=1):
+        result=result*x
+        x=x-1
+    return result
+x=int(input("enter a calculate factorial"))
+y=(factorial(x))
+print(("factorial of ") +str (x)+(" is" )+str(y))
+.......................
+def ap(a,b,c):
+    while(a<=1):
+            print(a)
+            a=a+b
+a=int(input("enter 1st term of an Ap"))
+b=int(input("enter defference b/w two terms of an Ap : "))
+n=int(input("ebter no of terms of an Ap"))
+c=(a+(n*b)-b)
+print(c)
+print(ap(a,b,c))
+.............................
+#nesting
+#list containing dictionaries
+user_1={
+    'name':' rahul','age ':'30'
+    }
+user_2={
+    'name':' rahat','age ':'16'
+    }
+users=[user_1,user_2]
+for i in users:
+    for u,n in i.items():
+        print('\n'+"user's "+str(u)+str(n))
+.....................
+#nesting
+#list containing dictionaries
+fav_movies= {
+    'rahul'🙁'titanic','avangers','iron man'],
+    'rahat'🙁'dhoom 2', 'plays','spiderman']
+    }
+for i,j in fav_movies.items():
+    print('\n'+str(i)+" is fav_movies are ")
+    for names in j:
+        print('\t'+str(names))
+........................
+x=int(input("enter num:"))
+y=int(input("enter 2 nd num:"))
+z=int(input("enter 3 num: "))
+if x>y>z:
+       num=z
+elif y>z>x:
+       num=x
+else:
+       num=y
+while True:
+       if x%num==0 and y%num==0 and z%num==0:
+              print("hcf: ",num)
+              break
+       else:
+              num=num-1
+print(num)
+...........................
+while True:
+	x=input("id: ")
+	if x!="t":
+		print("retry")
+		continue
+	else:
+		while True:
+			b=0
+			b=b+1
+			y=input("pass: ")
+			if y=="g":
+				print("welcome")
+				break
+			elif b%3==0:
+	continue
+		    else:
+		    	continue
+.............................
+x=[]
+y=[]
+
+x1=int(input("x:"))
+x.append(x1)
+y1=int(input('y:'))
+y.append(y1)
+
+di=input("enter dir: ")
+for i in range(len(di)):
+    if di[i]=='N':
+        x.append(-int(di[i+1]))
+    elif di[i]=='S':
+        x.append(int(di[i+1]))
+    elif di[i]=='E':
+        y.append(-int(di[i+1]))
+    elif di[i]=='W':
+        y.append(int(di[i+1]))
+x2=sum(x)
+y2=sum(y)
+if sum(x)<0:
+    x_='N'
+    x2=x2*-1
+elif sum(x)>0:
+    x_="S"
+if sum(y)<0:
+    y2=y2*-1
+    y_='E'
+elif sum(y):
+    y_="W"
+print("direction is :{}={} {}={}".format(x_,x2,y_,y2))
+..............................
